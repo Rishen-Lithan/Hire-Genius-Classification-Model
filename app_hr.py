@@ -35,7 +35,7 @@ def get_employee_category(df):
         print(f"Prediction error: {e}")
         return None
 
-
+# POST API Route to get the Category
 @app.route('/get_category', methods=['POST'])
 def predict_category():
     data = request.get_json()
