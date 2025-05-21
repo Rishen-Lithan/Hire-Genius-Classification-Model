@@ -1,0 +1,1601 @@
+age,applying position,experience,leadership experience,english proficiency,salary expectation,gender,category
+21,Trainee,Below 1 year,no experience,Beginner,40000,Male,low level
+22,Junior Developer,1-2 years,2-5 years experience,Beginner,80000,Female,low-mid level
+32,Senior Engineer,5-10 years,5 years+ experience,Fluent,410000,Male,mid-high level
+31,Associate Engineer,1-2 years,1-2 years experience,Fluent,130000,Female,mid level
+50,Senior Engineer,5-10 years,5 years+ experience,Fluent,600000,Male,high level
+20,Intern,Below 1 year,no experience,Intermediate,50000,Male,low level
+26,Junior Engineer,1-2 years,2-5 years experience,Beginner,50000,Female,low-mid level
+45,Software Engineer,5-10 years,5 years+ experience,Fluent,410000,Female,mid-high level
+28,Associate Engineer,1-2 years,2-5 years experience,Fluent,170000,Female,mid level
+51,Principal Engineer,5-10 years,5 years+ experience,Fluent,820000,Male,high level
+20,Intern,Below 1 year,no experience,Beginner,30000,Male,low level
+20,Associate Engineer,1-2 years,1-2 years experience,Beginner,50000,Male,low-mid level
+34,Tech Lead,5-10 years,5 years+ experience,Fluent,320000,Male,mid-high level
+31,Software Engineer,2-5 years,2-5 years experience,Fluent,180000,Female,mid level
+53,Tech Lead,5-10 years,5 years+ experience,Fluent,680000,Male,high level
+22,Intern,No experience,no experience,Beginner,40000,Male,low level
+20,Junior Developer,1-2 years,1-2 years experience,Beginner,80000,Male,low-mid level
+45,Senior Engineer,5-10 years,5 years+ experience,Fluent,490000,Male,mid-high level
+29,Software Engineer,2-5 years,1-2 years experience,Fluent,170000,Male,mid level
+38,Architect,5-10 years,5 years+ experience,Fluent,650000,Male,high level
+18,Intern,Below 1 year,no experience,Intermediate,50000,Male,low level
+20,Junior Developer,1-2 years,2-5 years experience,Intermediate,50000,Male,low-mid level
+47,Senior Engineer,5-10 years,5 years+ experience,Fluent,450000,Male,mid-high level
+32,Software Engineer,1-2 years,1-2 years experience,Fluent,150000,Male,mid level
+45,Tech Lead,10+ years,5 years+ experience,Fluent,940000,Male,high level
+20,Intern,Below 1 year,no experience,Beginner,50000,Male,low level
+26,Junior Engineer,1-2 years,2-5 years experience,Beginner,50000,Male,low-mid level
+33,Senior Engineer,5-10 years,5 years+ experience,Fluent,460000,Male,mid-high level
+31,Software Engineer,2-5 years,1-2 years experience,Fluent,190000,Male,mid level
+30,Tech Lead,5-10 years,5 years+ experience,Fluent,990000,Male,high level
+20,Trainee,Below 1 year,no experience,Beginner,40000,Male,low level
+21,Junior Developer,1-2 years,1-2 years experience,Beginner,60000,Male,low-mid level
+38,Tech Lead,5-10 years,5 years+ experience,Fluent,230000,Male,mid-high level
+31,Software Engineer,2-5 years,2-5 years experience,Fluent,150000,Male,mid level
+51,Tech Lead,5-10 years,5 years+ experience,Fluent,690000,Male,high level
+23,Intern,No experience,no experience,Fluent,50000,Male,low level
+25,Junior Engineer,1-2 years,2-5 years experience,Intermediate,60000,Female,low-mid level
+39,Senior Engineer,5-10 years,5 years+ experience,Fluent,210000,Male,mid-high level
+30,Associate Engineer,1-2 years,2-5 years experience,Fluent,120000,Male,mid level
+46,Tech Lead,10+ years,5 years+ experience,Fluent,830000,Male,high level
+21,Intern,No experience,no experience,Beginner,30000,Male,low level
+21,Associate Engineer,1-2 years,1-2 years experience,Intermediate,60000,Male,low-mid level
+41,Tech Lead,5-10 years,5 years+ experience,Fluent,480000,Male,mid-high level
+30,Associate Engineer,2-5 years,1-2 years experience,Fluent,150000,Male,mid level
+44,Senior Engineer,5-10 years,5 years+ experience,Fluent,960000,Male,high level
+22,Intern,No experience,no experience,Fluent,50000,Male,low level
+20,Associate Engineer,1-2 years,2-5 years experience,Intermediate,60000,Male,low-mid level
+54,Senior Engineer,5-10 years,5 years+ experience,Fluent,480000,Male,mid-high level
+31,Associate Engineer,2-5 years,2-5 years experience,Fluent,120000,Male,mid level
+50,Tech Lead,5-10 years,5 years+ experience,Fluent,710000,Male,high level
+19,Trainee,No experience,no experience,Beginner,50000,Male,low level
+25,Associate Engineer,1-2 years,1-2 years experience,Intermediate,70000,Male,low-mid level
+43,Senior Engineer,5-10 years,5 years+ experience,Fluent,480000,Male,mid-high level
+32,Software Engineer,1-2 years,1-2 years experience,Fluent,170000,Female,mid level
+31,Senior Engineer,5-10 years,5 years+ experience,Fluent,790000,Male,high level
+23,Intern,Below 1 year,no experience,Fluent,50000,Male,low level
+26,Junior Engineer,1-2 years,1-2 years experience,Beginner,70000,Female,low-mid level
+35,Senior Engineer,5-10 years,5 years+ experience,Fluent,450000,Male,mid-high level
+28,Associate Engineer,1-2 years,1-2 years experience,Fluent,140000,Male,mid level
+45,Architect,10+ years,5 years+ experience,Fluent,780000,Male,high level
+19,Intern,Below 1 year,no experience,Beginner,40000,Male,low level
+24,Junior Developer,1-2 years,2-5 years experience,Beginner,60000,Male,low-mid level
+41,Tech Lead,5-10 years,5 years+ experience,Fluent,310000,Male,mid-high level
+31,Software Engineer,1-2 years,1-2 years experience,Fluent,190000,Male,mid level
+46,Architect,10+ years,5 years+ experience,Fluent,740000,Male,high level
+20,Trainee,Below 1 year,no experience,Beginner,30000,Male,low level
+24,Associate Engineer,1-2 years,2-5 years experience,Beginner,50000,Male,low-mid level
+45,Senior Engineer,5-10 years,5 years+ experience,Fluent,450000,Male,mid-high level
+31,Associate Engineer,1-2 years,2-5 years experience,Fluent,130000,Male,mid level
+40,Senior Engineer,10+ years,5 years+ experience,Fluent,990000,Male,high level
+22,Intern,Below 1 year,no experience,Fluent,30000,Female,low level
+25,Junior Engineer,1-2 years,1-2 years experience,Fluent,70000,Male,low-mid level
+32,Tech Lead,5-10 years,5 years+ experience,Fluent,230000,Female,mid-high level
+32,Associate Engineer,2-5 years,1-2 years experience,Fluent,120000,Male,mid level
+54,Tech Lead,5-10 years,5 years+ experience,Fluent,580000,Male,high level
+20,Trainee,Below 1 year,no experience,Beginner,30000,Male,low level
+21,Junior Engineer,1-2 years,2-5 years experience,Beginner,70000,Male,low-mid level
+38,Software Engineer,5-10 years,5 years+ experience,Fluent,370000,Male,mid-high level
+29,Software Engineer,1-2 years,2-5 years experience,Fluent,180000,Male,mid level
+48,Tech Lead,10+ years,5 years+ experience,Fluent,580000,Male,high level
+20,Intern,Below 1 year,no experience,Beginner,40000,Female,low level
+22,Junior Engineer,1-2 years,1-2 years experience,Beginner,50000,Female,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,270000,Male,mid-high level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,170000,Male,mid level
+39,Tech Lead,10+ years,5 years+ experience,Fluent,560000,Male,high level
+22,Trainee,Below 1 year,no experience,Intermediate,50000,Female,low level
+25,Junior Developer,1-2 years,2-5 years experience,Fluent,60000,Male,low-mid level
+35,Tech Lead,5-10 years,5 years+ experience,Fluent,360000,Male,mid-high level
+29,Associate Engineer,2-5 years,1-2 years experience,Fluent,170000,Male,mid level
+44,Tech Lead,10+ years,5 years+ experience,Fluent,640000,Male,high level
+20,Intern,No experience,no experience,Beginner,50000,Male,low level
+26,Junior Developer,1-2 years,2-5 years experience,Fluent,80000,Male,low-mid level
+34,Tech Lead,5-10 years,5 years+ experience,Fluent,280000,Male,mid-high level
+30,Software Engineer,1-2 years,1-2 years experience,Fluent,160000,Female,mid level
+32,Tech Lead,10+ years,5 years+ experience,Fluent,960000,Male,high level
+18,Intern,Below 1 year,no experience,Fluent,30000,Male,low level
+22,Junior Developer,1-2 years,2-5 years experience,Fluent,80000,Female,low-mid level
+45,Senior Engineer,5-10 years,5 years+ experience,Fluent,300000,Male,mid-high level
+30,Software Engineer,1-2 years,2-5 years experience,Fluent,200000,Female,mid level
+30,Architect,10+ years,5 years+ experience,Fluent,630000,Male,high level
+20,Trainee,No experience,no experience,Fluent,40000,Male,low level
+24,Junior Engineer,1-2 years,1-2 years experience,Beginner,60000,Male,low-mid level
+54,Software Engineer,5-10 years,5 years+ experience,Fluent,390000,Male,mid-high level
+29,Associate Engineer,1-2 years,1-2 years experience,Fluent,120000,Female,mid level
+20,Intern,Below 1 year,no experience,Beginner,50000,Male,low level
+22,Intern,Below 1 year,no experience,Beginner,30000,Male,low level
+20,Junior Engineer,1-2 years,1-2 years experience,Beginner,80000,Male,low-mid level
+35,Software Engineer,5-10 years,5 years+ experience,Fluent,420000,Male,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Fluent,180000,Male,mid level
+22,Junior Developer,Below 1 year,no experience,Intermediate,30000,Female,low level
+23,Intern,Below 1 year,no experience,Fluent,30000,Female,low level
+21,Associate Engineer,1-2 years,2-5 years experience,Fluent,60000,Female,low-mid level
+55,Software Engineer,5-10 years,5 years+ experience,Fluent,280000,Male,mid-high level
+28,Software Engineer,2-5 years,2-5 years experience,Fluent,130000,Male,mid level
+18,Trainee,No experience,no experience,Beginner,50000,Male,low level
+22,Junior Developer,Below 1 year,no experience,Intermediate,40000,Female,low level
+22,Junior Developer,1-2 years,1-2 years experience,Fluent,80000,Female,low-mid level
+54,Tech Lead,5-10 years,5 years+ experience,Fluent,310000,Male,mid-high level
+34,Associate Engineer,2-5 years,1-2 years experience,Fluent,190000,Male,mid level
+21,Intern,No experience,no experience,Fluent,50000,Female,low level
+23,Junior Developer,No experience,no experience,Intermediate,40000,Male,low level
+24,Associate Engineer,1-2 years,2-5 years experience,Fluent,70000,Female,low-mid level
+51,Software Engineer,5-10 years,5 years+ experience,Fluent,320000,Male,mid-high level
+29,Software Engineer,1-2 years,2-5 years experience,Fluent,150000,Female,mid level
+22,Trainee,Below 1 year,no experience,Fluent,30000,Male,low level
+21,Intern,No experience,no experience,Beginner,30000,Male,low level
+22,Associate Engineer,1-2 years,1-2 years experience,Fluent,70000,Female,low-mid level
+33,Senior Engineer,5-10 years,5 years+ experience,Fluent,380000,Male,mid-high level
+28,Software Engineer,1-2 years,2-5 years experience,Fluent,170000,Female,mid level
+22,Intern,Below 1 year,no experience,Beginner,40000,Male,low level
+18,Trainee,Below 1 year,no experience,Beginner,30000,Male,low level
+27,Junior Developer,1-2 years,2-5 years experience,Beginner,80000,Male,low-mid level
+44,Senior Engineer,5-10 years,5 years+ experience,Fluent,210000,Male,mid-high level
+28,Software Engineer,1-2 years,2-5 years experience,Fluent,120000,Male,mid level
+22,Intern,Below 1 year,no experience,Fluent,30000,Male,low level
+18,Intern,Below 1 year,no experience,Fluent,50000,Male,low level
+22,Junior Engineer,1-2 years,1-2 years experience,Beginner,70000,Female,low-mid level
+35,Senior Engineer,5-10 years,5 years+ experience,Fluent,460000,Male,mid-high level
+29,Software Engineer,2-5 years,2-5 years experience,Fluent,150000,Male,mid level
+19,Junior Developer,No experience,no experience,Intermediate,30000,Female,low level
+22,Intern,No experience,no experience,Intermediate,40000,Male,low level
+24,Junior Engineer,1-2 years,2-5 years experience,Beginner,50000,Male,low-mid level
+36,Senior Engineer,5-10 years,5 years+ experience,Fluent,480000,Male,mid-high level
+31,Software Engineer,1-2 years,2-5 years experience,Fluent,200000,Male,mid level
+20,Intern,Below 1 year,no experience,Fluent,40000,Male,low level
+18,Trainee,Below 1 year,no experience,Intermediate,40000,Male,low level
+28,Junior Engineer,1-2 years,1-2 years experience,Intermediate,50000,Female,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,370000,Male,mid-high level
+31,Software Engineer,1-2 years,1-2 years experience,Fluent,150000,Male,mid level
+21,Intern,Below 1 year,no experience,Intermediate,30000,Female,low level
+19,Intern,Below 1 year,no experience,Intermediate,30000,Male,low level
+27,Associate Engineer,1-2 years,1-2 years experience,Beginner,60000,Male,low-mid level
+42,Software Engineer,5-10 years,5 years+ experience,Fluent,370000,Male,mid-high level
+28,Software Engineer,1-2 years,2-5 years experience,Fluent,180000,Male,mid level
+23,Intern,Below 1 year,no experience,Intermediate,40000,Male,low level
+22,Trainee,Below 1 year,no experience,Fluent,40000,Male,low level
+25,Junior Developer,1-2 years,2-5 years experience,Fluent,70000,Male,low-mid level
+42,Tech Lead,5-10 years,5 years+ experience,Fluent,430000,Male,mid-high level
+31,Software Engineer,2-5 years,2-5 years experience,Fluent,120000,Male,mid level
+20,Intern,Below 1 year,no experience,Fluent,40000,Female,low level
+23,Intern,No experience,no experience,Intermediate,50000,Female,low level
+20,Junior Developer,1-2 years,1-2 years experience,Intermediate,50000,Male,low-mid level
+45,Senior Engineer,5-10 years,5 years+ experience,Fluent,420000,Male,mid-high level
+35,Associate Engineer,2-5 years,1-2 years experience,Fluent,150000,Male,mid level
+18,Junior Developer,Below 1 year,no experience,Fluent,30000,Male,low level
+21,Intern,No experience,no experience,Beginner,50000,Female,low level
+28,Junior Engineer,1-2 years,2-5 years experience,Fluent,60000,Female,low-mid level
+35,Software Engineer,5-10 years,5 years+ experience,Fluent,340000,Male,mid-high level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,140000,Male,mid level
+21,Trainee,No experience,no experience,Fluent,30000,Male,low level
+22,Trainee,No experience,no experience,Beginner,30000,Male,low level
+28,Junior Engineer,1-2 years,1-2 years experience,Fluent,70000,Female,low-mid level
+41,Software Engineer,5-10 years,5 years+ experience,Fluent,430000,Male,mid-high level
+31,Software Engineer,2-5 years,1-2 years experience,Fluent,190000,Female,mid level
+18,Intern,Below 1 year,no experience,Fluent,40000,Female,low level
+21,Intern,No experience,no experience,Beginner,50000,Female,low level
+23,Associate Engineer,1-2 years,2-5 years experience,Intermediate,80000,Male,low-mid level
+32,Tech Lead,5-10 years,5 years+ experience,Fluent,430000,Male,mid-high level
+32,Software Engineer,2-5 years,2-5 years experience,Fluent,150000,Female,mid level
+48,Senior Engineer,10+ years,5 years+ experience,Fluent,970000,Male,high level
+22,Intern,Below 1 year,no experience,Beginner,40000,Male,low level
+23,Junior Engineer,1-2 years,1-2 years experience,Beginner,50000,Male,low-mid level
+41,Software Engineer,5-10 years,5 years+ experience,Fluent,250000,Male,mid-high level
+32,Associate Engineer,2-5 years,2-5 years experience,Fluent,160000,Male,mid level
+38,Architect,10+ years,5 years+ experience,Fluent,690000,Male,high level
+19,Trainee,Below 1 year,no experience,Beginner,50000,Male,low level
+21,Associate Engineer,1-2 years,2-5 years experience,Beginner,70000,Female,low-mid level
+43,Tech Lead,5-10 years,5 years+ experience,Fluent,280000,Male,mid-high level
+30,Software Engineer,1-2 years,2-5 years experience,Fluent,160000,Male,mid level
+40,Principal Engineer,10+ years,5 years+ experience,Fluent,700000,Male,high level
+19,Trainee,No experience,no experience,Beginner,50000,Male,low level
+23,Associate Engineer,1-2 years,1-2 years experience,Intermediate,80000,Female,low-mid level
+47,Tech Lead,5-10 years,5 years+ experience,Fluent,480000,Male,mid-high level
+31,Associate Engineer,1-2 years,2-5 years experience,Fluent,150000,Male,mid level
+54,Tech Lead,10+ years,5 years+ experience,Fluent,900000,Male,high level
+22,Intern,No experience,no experience,Beginner,30000,Female,low level
+28,Junior Developer,1-2 years,1-2 years experience,Fluent,60000,Female,low-mid level
+43,Senior Engineer,5-10 years,5 years+ experience,Fluent,310000,Male,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Fluent,150000,Male,mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,830000,Male,high level
+18,Trainee,No experience,no experience,Fluent,40000,Male,low level
+22,Junior Developer,1-2 years,2-5 years experience,Fluent,60000,Female,low-mid level
+46,Software Engineer,5-10 years,5 years+ experience,Fluent,400000,Male,mid-high level
+31,Associate Engineer,2-5 years,1-2 years experience,Fluent,130000,Male,mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,650000,Male,high level
+23,Intern,Below 1 year,no experience,Intermediate,30000,Male,low level
+22,Associate Engineer,1-2 years,2-5 years experience,Intermediate,70000,Male,low-mid level
+38,Senior Engineer,5-10 years,5 years+ experience,Fluent,410000,Male,mid-high level
+29,Associate Engineer,1-2 years,1-2 years experience,Fluent,180000,Male,mid level
+51,Principal Engineer,5-10 years,5 years+ experience,Fluent,920000,Male,high level
+22,Intern,No experience,no experience,Intermediate,30000,Male,low level
+28,Junior Engineer,1-2 years,2-5 years experience,Intermediate,70000,Male,low-mid level
+41,Software Engineer,5-10 years,5 years+ experience,Fluent,220000,Male,mid-high level
+30,Software Engineer,2-5 years,1-2 years experience,Fluent,180000,Male,mid level
+48,Tech Lead,5-10 years,5 years+ experience,Fluent,810000,Male,high level
+23,Junior Developer,No experience,no experience,Beginner,40000,Male,low level
+22,Junior Developer,1-2 years,2-5 years experience,Intermediate,60000,Male,low-mid level
+46,Tech Lead,5-10 years,5 years+ experience,Fluent,400000,Male,mid-high level
+31,Associate Engineer,1-2 years,1-2 years experience,Fluent,170000,Male,mid level
+30,Principal Engineer,5-10 years,5 years+ experience,Fluent,980000,Male,high level
+21,Trainee,No experience,no experience,Beginner,30000,Male,low level
+20,Associate Engineer,1-2 years,1-2 years experience,Fluent,70000,Male,low-mid level
+35,Tech Lead,5-10 years,5 years+ experience,Fluent,410000,Male,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Fluent,200000,Male,mid level
+38,Architect,10+ years,5 years+ experience,Fluent,980000,Male,high level
+21,Intern,Below 1 year,no experience,Beginner,30000,Male,low level
+25,Associate Engineer,1-2 years,2-5 years experience,Fluent,50000,Female,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,350000,Male,mid-high level
+29,Software Engineer,1-2 years,1-2 years experience,Fluent,180000,Male,mid level
+53,Senior Engineer,10+ years,5 years+ experience,Fluent,860000,Male,high level
+18,Junior Developer,No experience,no experience,Beginner,40000,Female,low level
+22,Junior Developer,1-2 years,1-2 years experience,Beginner,50000,Male,low-mid level
+33,Tech Lead,5-10 years,5 years+ experience,Fluent,270000,Male,mid-high level
+32,Software Engineer,2-5 years,2-5 years experience,Fluent,130000,Female,mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,560000,Male,high level
+22,Intern,No experience,no experience,Fluent,40000,Female,low level
+25,Junior Developer,1-2 years,2-5 years experience,Fluent,80000,Female,low-mid level
+33,Tech Lead,5-10 years,5 years+ experience,Fluent,500000,Male,mid-high level
+28,Associate Engineer,1-2 years,1-2 years experience,Fluent,120000,Female,mid level
+49,Architect,5-10 years,5 years+ experience,Fluent,680000,Male,high level
+20,Trainee,No experience,no experience,Intermediate,50000,Male,low level
+23,Associate Engineer,1-2 years,2-5 years experience,Fluent,70000,Male,low-mid level
+43,Software Engineer,5-10 years,5 years+ experience,Fluent,330000,Female,mid-high level
+29,Associate Engineer,1-2 years,1-2 years experience,Fluent,170000,Male,mid level
+42,Senior Engineer,5-10 years,5 years+ experience,Fluent,740000,Male,high level
+23,Junior Developer,No experience,no experience,Intermediate,50000,Female,low level
+24,Junior Engineer,1-2 years,1-2 years experience,Beginner,60000,Male,low-mid level
+37,Senior Engineer,5-10 years,5 years+ experience,Fluent,450000,Male,mid-high level
+30,Software Engineer,1-2 years,1-2 years experience,Fluent,130000,Male,mid level
+55,Senior Engineer,10+ years,5 years+ experience,Fluent,720000,Male,high level
+22,Trainee,Below 1 year,no experience,Intermediate,40000,Male,low level
+21,Junior Engineer,1-2 years,1-2 years experience,Beginner,80000,Male,low-mid level
+42,Software Engineer,5-10 years,5 years+ experience,Fluent,330000,Male,mid-high level
+28,Associate Engineer,1-2 years,1-2 years experience,Fluent,160000,Female,mid level
+49,Principal Engineer,5-10 years,5 years+ experience,Fluent,920000,Male,high level
+18,Intern,Below 1 year,no experience,Intermediate,50000,Male,low level
+23,Junior Engineer,1-2 years,2-5 years experience,Beginner,50000,Male,low-mid level
+43,Tech Lead,5-10 years,5 years+ experience,Fluent,370000,Male,mid-high level
+32,Software Engineer,2-5 years,1-2 years experience,Fluent,180000,Male,mid level
+48,Senior Engineer,10+ years,5 years+ experience,Fluent,500000,Male,high level
+19,Intern,Below 1 year,no experience,Fluent,30000,Female,low level
+24,Junior Developer,1-2 years,1-2 years experience,Fluent,80000,Male,low-mid level
+43,Tech Lead,5-10 years,5 years+ experience,Fluent,380000,Male,mid-high level
+29,Associate Engineer,2-5 years,2-5 years experience,Fluent,120000,Male,mid level
+44,Tech Lead,10+ years,5 years+ experience,Fluent,620000,Male,high level
+22,Intern,No experience,no experience,Fluent,50000,Male,low level
+27,Associate Engineer,1-2 years,2-5 years experience,Fluent,70000,Male,low-mid level
+42,Senior Engineer,5-10 years,5 years+ experience,Fluent,230000,Male,mid-high level
+29,Software Engineer,1-2 years,2-5 years experience,Fluent,190000,Male,mid level
+37,Tech Lead,5-10 years,5 years+ experience,Fluent,830000,Male,high level
+18,Trainee,Below 1 year,no experience,Beginner,30000,Female,low level
+27,Associate Engineer,1-2 years,2-5 years experience,Fluent,80000,Female,low-mid level
+43,Software Engineer,5-10 years,5 years+ experience,Fluent,400000,Male,mid-high level
+30,Software Engineer,2-5 years,1-2 years experience,Fluent,170000,Male,mid level
+39,Tech Lead,10+ years,5 years+ experience,Fluent,980000,Male,high level
+23,Trainee,No experience,no experience,Fluent,30000,Female,low level
+25,Junior Developer,1-2 years,2-5 years experience,Beginner,80000,Female,low-mid level
+32,Senior Engineer,5-10 years,5 years+ experience,Fluent,280000,Male,mid-high level
+30,Software Engineer,2-5 years,1-2 years experience,Fluent,150000,Male,mid level
+52,Senior Engineer,5-10 years,5 years+ experience,Fluent,590000,Male,high level
+20,Intern,No experience,no experience,Fluent,40000,Male,low level
+27,Junior Developer,1-2 years,2-5 years experience,Beginner,50000,Male,low-mid level
+38,Senior Engineer,5-10 years,5 years+ experience,Fluent,440000,Male,mid-high level
+30,Associate Engineer,2-5 years,2-5 years experience,Fluent,200000,Female,mid level
+47,Principal Engineer,10+ years,5 years+ experience,Fluent,810000,Male,high level
+18,Intern,No experience,no experience,Beginner,30000,Male,low level
+22,Associate Engineer,1-2 years,2-5 years experience,Beginner,80000,Female,low-mid level
+42,Software Engineer,5-10 years,5 years+ experience,Fluent,250000,Male,mid-high level
+29,Associate Engineer,2-5 years,2-5 years experience,Fluent,200000,Male,mid level
+52,Tech Lead,10+ years,5 years+ experience,Fluent,850000,Male,high level
+18,Intern,No experience,no experience,Beginner,40000,Male,low level
+21,Associate Engineer,1-2 years,1-2 years experience,Intermediate,60000,Male,low-mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,260000,Male,mid-high level
+32,Software Engineer,1-2 years,1-2 years experience,Fluent,180000,Male,mid level
+55,Senior Engineer,5-10 years,5 years+ experience,Fluent,740000,Male,high level
+18,Intern,Below 1 year,no experience,Fluent,40000,Male,low level
+22,Junior Developer,1-2 years,1-2 years experience,Intermediate,70000,Female,low-mid level
+36,Software Engineer,5-10 years,5 years+ experience,Fluent,490000,Female,mid-high level
+30,Software Engineer,1-2 years,1-2 years experience,Fluent,120000,Female,mid level
+37,Tech Lead,5-10 years,5 years+ experience,Fluent,1000000,Male,high level
+23,Intern,Below 1 year,no experience,Intermediate,30000,Male,low level
+23,Associate Engineer,1-2 years,2-5 years experience,Intermediate,80000,Male,low-mid level
+38,Tech Lead,5-10 years,5 years+ experience,Fluent,350000,Male,mid-high level
+29,Software Engineer,2-5 years,2-5 years experience,Fluent,140000,Male,mid level
+47,Tech Lead,10+ years,5 years+ experience,Fluent,810000,Male,high level
+21,Intern,No experience,no experience,Intermediate,30000,Male,low level
+21,Junior Developer,1-2 years,1-2 years experience,Intermediate,70000,Male,low-mid level
+54,Senior Engineer,5-10 years,5 years+ experience,Fluent,350000,Male,mid-high level
+28,Associate Engineer,1-2 years,1-2 years experience,Fluent,180000,Male,mid level
+47,Senior Engineer,5-10 years,5 years+ experience,Fluent,570000,Male,high level
+18,Intern,No experience,no experience,Intermediate,40000,Male,low level
+20,Junior Engineer,1-2 years,2-5 years experience,Beginner,70000,Male,low-mid level
+35,Tech Lead,5-10 years,5 years+ experience,Fluent,300000,Female,mid-high level
+31,Software Engineer,1-2 years,1-2 years experience,Fluent,150000,Male,mid level
+47,Principal Engineer,10+ years,5 years+ experience,Fluent,880000,Female,high level
+22,Trainee,No experience,no experience,Intermediate,30000,Male,low level
+21,Junior Engineer,1-2 years,2-5 years experience,Beginner,80000,Male,low-mid level
+54,Tech Lead,5-10 years,5 years+ experience,Fluent,490000,Male,mid-high level
+31,Software Engineer,2-5 years,2-5 years experience,Fluent,140000,Female,mid level
+30,Architect,10+ years,5 years+ experience,Fluent,750000,Male,high level
+20,Intern,No experience,no experience,Beginner,30000,Female,low level
+21,Associate Engineer,1-2 years,1-2 years experience,Fluent,80000,Male,low-mid level
+36,Senior Engineer,5-10 years,5 years+ experience,Fluent,240000,Male,mid-high level
+30,Associate Engineer,2-5 years,1-2 years experience,Fluent,140000,Male,mid level
+36,Principal Engineer,5-10 years,5 years+ experience,Fluent,860000,Female,high level
+20,Intern,No experience,no experience,Beginner,50000,Male,low level
+22,Junior Developer,1-2 years,2-5 years experience,Intermediate,50000,Male,low-mid level
+44,Software Engineer,5-10 years,5 years+ experience,Fluent,460000,Male,mid-high level
+28,Associate Engineer,1-2 years,1-2 years experience,Fluent,170000,Female,mid level
+42,Senior Engineer,10+ years,5 years+ experience,Fluent,600000,Male,high level
+19,Intern,No experience,no experience,Fluent,50000,Male,low level
+27,Junior Engineer,1-2 years,2-5 years experience,Intermediate,80000,Female,low-mid level
+39,Senior Engineer,5-10 years,5 years+ experience,Fluent,300000,Male,mid-high level
+30,Software Engineer,2-5 years,2-5 years experience,Fluent,190000,Male,mid level
+53,Tech Lead,10+ years,5 years+ experience,Fluent,690000,Male,high level
+20,Trainee,No experience,no experience,Beginner,30000,Male,low level
+24,Junior Developer,1-2 years,2-5 years experience,Beginner,70000,Female,low-mid level
+36,Senior Engineer,5-10 years,5 years+ experience,Fluent,360000,Male,mid-high level
+29,Associate Engineer,2-5 years,2-5 years experience,Fluent,170000,Female,mid level
+52,Architect,10+ years,5 years+ experience,Fluent,900000,Male,high level
+21,Junior Developer,No experience,no experience,Fluent,30000,Male,low level
+25,Junior Developer,1-2 years,2-5 years experience,Intermediate,80000,Female,low-mid level
+37,Senior Engineer,5-10 years,5 years+ experience,Fluent,390000,Male,mid-high level
+30,Software Engineer,2-5 years,1-2 years experience,Fluent,120000,Male,mid level
+47,Senior Engineer,5-10 years,5 years+ experience,Fluent,820000,Male,high level
+22,Intern,Below 1 year,no experience,Fluent,50000,Male,low level
+28,Associate Engineer,1-2 years,2-5 years experience,Intermediate,50000,Male,low-mid level
+42,Software Engineer,5-10 years,5 years+ experience,Fluent,270000,Male,mid-high level
+31,Software Engineer,1-2 years,2-5 years experience,Fluent,190000,Male,mid level
+40,Architect,10+ years,5 years+ experience,Fluent,500000,Male,high level
+19,Trainee,Below 1 year,no experience,Fluent,40000,Male,low level
+24,Junior Engineer,1-2 years,1-2 years experience,Fluent,50000,Male,low-mid level
+36,Senior Engineer,5-10 years,5 years+ experience,Fluent,500000,Male,mid-high level
+32,Software Engineer,1-2 years,1-2 years experience,Fluent,150000,Female,mid level
+38,Tech Lead,10+ years,5 years+ experience,Fluent,530000,Female,high level
+21,Trainee,Below 1 year,no experience,Beginner,40000,Male,low level
+24,Junior Developer,1-2 years,1-2 years experience,Intermediate,50000,Female,low-mid level
+54,Software Engineer,5-10 years,5 years+ experience,Fluent,440000,Male,mid-high level
+29,Software Engineer,1-2 years,1-2 years experience,Fluent,120000,Female,mid level
+40,Principal Engineer,5-10 years,5 years+ experience,Fluent,840000,Female,high level
+19,Trainee,No experience,no experience,Intermediate,30000,Male,low level
+24,Junior Developer,1-2 years,1-2 years experience,Beginner,80000,Female,low-mid level
+40,Tech Lead,5-10 years,5 years+ experience,Fluent,490000,Male,mid-high level
+29,Associate Engineer,2-5 years,2-5 years experience,Fluent,160000,Male,mid level
+46,Senior Engineer,5-10 years,5 years+ experience,Fluent,680000,Male,high level
+21,Trainee,No experience,no experience,Fluent,40000,Male,low level
+28,Junior Developer,1-2 years,2-5 years experience,Intermediate,80000,Male,low-mid level
+44,Software Engineer,5-10 years,5 years+ experience,Fluent,310000,Male,mid-high level
+30,Associate Engineer,1-2 years,1-2 years experience,Fluent,150000,Female,mid level
+42,Senior Engineer,10+ years,5 years+ experience,Fluent,620000,Male,high level
+21,Intern,Below 1 year,no experience,Beginner,50000,Male,low level
+21,Junior Engineer,1-2 years,2-5 years experience,Fluent,60000,Female,low-mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,280000,Male,mid-high level
+28,Software Engineer,1-2 years,1-2 years experience,Fluent,120000,Female,mid level
+52,Senior Engineer,10+ years,5 years+ experience,Fluent,820000,Male,high level
+22,Junior Developer,No experience,no experience,Beginner,50000,Female,low level
+21,Junior Developer,1-2 years,2-5 years experience,Fluent,70000,Male,low-mid level
+34,Tech Lead,5-10 years,5 years+ experience,Fluent,330000,Male,mid-high level
+31,Software Engineer,2-5 years,2-5 years experience,Fluent,170000,Male,mid level
+40,Tech Lead,10+ years,5 years+ experience,Fluent,660000,Male,high level
+23,Intern,Below 1 year,no experience,Intermediate,40000,Male,low level
+22,Associate Engineer,1-2 years,2-5 years experience,Intermediate,50000,Female,low-mid level
+41,Senior Engineer,5-10 years,5 years+ experience,Fluent,340000,Female,mid-high level
+29,Associate Engineer,1-2 years,1-2 years experience,Fluent,190000,Female,mid level
+38,Senior Engineer,10+ years,5 years+ experience,Fluent,790000,Male,high level
+18,Junior Developer,No experience,no experience,Fluent,30000,Female,low level
+22,Junior Engineer,1-2 years,1-2 years experience,Fluent,70000,Male,low-mid level
+34,Tech Lead,5-10 years,5 years+ experience,Fluent,490000,Male,mid-high level
+30,Associate Engineer,1-2 years,1-2 years experience,Fluent,120000,Male,mid level
+35,Principal Engineer,10+ years,5 years+ experience,Fluent,910000,Male,high level
+18,Intern,No experience,no experience,Intermediate,50000,Female,low level
+22,Junior Engineer,1-2 years,1-2 years experience,Beginner,80000,Male,low-mid level
+40,Senior Engineer,5-10 years,5 years+ experience,Fluent,420000,Male,mid-high level
+32,Software Engineer,1-2 years,2-5 years experience,Fluent,140000,Female,mid level
+49,Tech Lead,10+ years,5 years+ experience,Fluent,740000,Male,high level
+18,Intern,No experience,no experience,Intermediate,40000,Female,low level
+21,Associate Engineer,1-2 years,1-2 years experience,Beginner,80000,Male,low-mid level
+34,Software Engineer,5-10 years,5 years+ experience,Fluent,220000,Male,mid-high level
+32,Associate Engineer,2-5 years,2-5 years experience,Fluent,170000,Male,mid level
+41,Architect,10+ years,5 years+ experience,Fluent,520000,Male,high level
+19,Junior Developer,Below 1 year,no experience,Beginner,50000,Male,low level
+20,Junior Developer,1-2 years,2-5 years experience,Fluent,80000,Male,low-mid level
+33,Senior Engineer,5-10 years,5 years+ experience,Fluent,230000,Male,mid-high level
+29,Associate Engineer,1-2 years,1-2 years experience,Fluent,170000,Female,mid level
+47,Principal Engineer,10+ years,5 years+ experience,Fluent,710000,Male,high level
+23,Intern,No experience,no experience,Beginner,50000,Male,low level
+24,Junior Developer,1-2 years,2-5 years experience,Fluent,60000,Female,low-mid level
+42,Software Engineer,5-10 years,5 years+ experience,Fluent,390000,Male,mid-high level
+30,Associate Engineer,1-2 years,1-2 years experience,Fluent,120000,Male,mid level
+35,Principal Engineer,10+ years,5 years+ experience,Fluent,760000,Male,high level
+23,Intern,No experience,no experience,Beginner,40000,Male,low level
+20,Junior Developer,1-2 years,1-2 years experience,Beginner,50000,Male,low-mid level
+33,Senior Engineer,5-10 years,5 years+ experience,Fluent,350000,Male,mid-high level
+30,Software Engineer,1-2 years,1-2 years experience,Fluent,130000,Male,mid level
+33,Tech Lead,5-10 years,5 years+ experience,Fluent,660000,Male,high level
+20,Trainee,Below 1 year,no experience,Intermediate,50000,Male,low level
+28,Associate Engineer,1-2 years,1-2 years experience,Beginner,60000,Female,low-mid level
+50,Tech Lead,5-10 years,5 years+ experience,Fluent,290000,Male,mid-high level
+31,Associate Engineer,2-5 years,2-5 years experience,Fluent,190000,Female,mid level
+44,Architect,5-10 years,5 years+ experience,Fluent,640000,Female,high level
+19,Trainee,Below 1 year,no experience,Intermediate,40000,Female,low level
+21,Junior Developer,1-2 years,2-5 years experience,Intermediate,60000,Male,low-mid level
+35,Tech Lead,5-10 years,5 years+ experience,Fluent,350000,Male,mid-high level
+31,Software Engineer,2-5 years,2-5 years experience,Fluent,200000,Male,mid level
+39,Architect,5-10 years,5 years+ experience,Fluent,830000,Male,high level
+22,Intern,Below 1 year,no experience,Intermediate,40000,Female,low level
+24,Junior Engineer,1-2 years,2-5 years experience,Intermediate,80000,Male,low-mid level
+45,Software Engineer,5-10 years,5 years+ experience,Fluent,230000,Male,mid-high level
+32,Associate Engineer,2-5 years,1-2 years experience,Fluent,170000,Female,mid level
+54,Tech Lead,5-10 years,5 years+ experience,Fluent,640000,Male,high level
+21,Intern,No experience,no experience,Fluent,50000,Male,low level
+26,Associate Engineer,1-2 years,2-5 years experience,Fluent,50000,Male,low-mid level
+33,Senior Engineer,5-10 years,5 years+ experience,Fluent,260000,Female,mid-high level
+32,Associate Engineer,1-2 years,1-2 years experience,Fluent,130000,Male,mid level
+43,Architect,5-10 years,5 years+ experience,Fluent,880000,Male,high level
+18,Trainee,No experience,no experience,Fluent,30000,Male,low level
+20,Junior Engineer,1-2 years,2-5 years experience,Beginner,80000,Male,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,440000,Male,mid-high level
+28,Software Engineer,2-5 years,1-2 years experience,Fluent,140000,Male,mid level
+31,Senior Engineer,10+ years,5 years+ experience,Fluent,540000,Male,high level
+18,Trainee,Below 1 year,no experience,Beginner,30000,Female,low level
+26,Junior Engineer,1-2 years,1-2 years experience,Beginner,60000,Male,low-mid level
+32,Senior Engineer,5-10 years,5 years+ experience,Fluent,240000,Male,mid-high level
+32,Software Engineer,1-2 years,1-2 years experience,Fluent,150000,Male,mid level
+39,Tech Lead,5-10 years,5 years+ experience,Fluent,820000,Male,high level
+22,Trainee,Below 1 year,no experience,Fluent,30000,Male,low level
+25,Associate Engineer,1-2 years,1-2 years experience,Fluent,80000,Male,low-mid level
+39,Senior Engineer,5-10 years,5 years+ experience,Fluent,240000,Male,mid-high level
+31,Associate Engineer,1-2 years,1-2 years experience,Fluent,150000,Male,mid level
+47,Tech Lead,5-10 years,5 years+ experience,Fluent,770000,Male,high level
+21,Intern,No experience,no experience,Beginner,50000,Male,low level
+22,Junior Engineer,1-2 years,1-2 years experience,Intermediate,60000,Male,low-mid level
+39,Software Engineer,5-10 years,5 years+ experience,Fluent,310000,Female,mid-high level
+32,Associate Engineer,2-5 years,1-2 years experience,Fluent,180000,Male,mid level
+40,Tech Lead,10+ years,5 years+ experience,Fluent,640000,Male,high level
+21,Trainee,Below 1 year,no experience,Fluent,30000,Female,low level
+22,Associate Engineer,1-2 years,1-2 years experience,Beginner,70000,Male,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,470000,Male,mid-high level
+30,Associate Engineer,1-2 years,2-5 years experience,Fluent,190000,Male,mid level
+55,Tech Lead,5-10 years,5 years+ experience,Fluent,590000,Male,high level
+19,Intern,Below 1 year,no experience,Fluent,30000,Male,low level
+20,Associate Engineer,1-2 years,1-2 years experience,Intermediate,80000,Male,low-mid level
+32,Tech Lead,5-10 years,5 years+ experience,Fluent,290000,Male,mid-high level
+32,Software Engineer,1-2 years,1-2 years experience,Fluent,130000,Male,mid level
+40,Senior Engineer,10+ years,5 years+ experience,Fluent,960000,Male,high level
+22,Intern,No experience,no experience,Intermediate,50000,Male,low level
+24,Junior Developer,1-2 years,2-5 years experience,Fluent,80000,Female,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,460000,Male,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Fluent,170000,Male,mid level
+50,Senior Engineer,5-10 years,5 years+ experience,Fluent,960000,Male,high level
+18,Junior Developer,Below 1 year,no experience,Intermediate,40000,Male,low level
+23,Junior Engineer,1-2 years,2-5 years experience,Beginner,50000,Male,low-mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,270000,Female,mid-high level
+30,Associate Engineer,1-2 years,2-5 years experience,Fluent,190000,Male,mid level
+40,Principal Engineer,5-10 years,5 years+ experience,Fluent,530000,Male,high level
+19,Junior Developer,Below 1 year,no experience,Intermediate,40000,Male,low level
+27,Junior Engineer,1-2 years,1-2 years experience,Fluent,50000,Male,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,450000,Male,mid-high level
+32,Software Engineer,1-2 years,1-2 years experience,Fluent,140000,Male,mid level
+43,Senior Engineer,10+ years,5 years+ experience,Fluent,990000,Female,high level
+21,Intern,Below 1 year,no experience,Fluent,40000,Female,low level
+23,Junior Developer,1-2 years,2-5 years experience,Fluent,80000,Male,low-mid level
+38,Senior Engineer,5-10 years,5 years+ experience,Fluent,400000,Male,mid-high level
+34,Software Engineer,2-5 years,1-2 years experience,Fluent,200000,Female,mid level
+36,Tech Lead,10+ years,5 years+ experience,Fluent,950000,Male,high level
+22,Intern,Below 1 year,no experience,Beginner,30000,Male,low level
+26,Associate Engineer,1-2 years,2-5 years experience,Beginner,70000,Male,low-mid level
+44,Senior Engineer,5-10 years,5 years+ experience,Fluent,330000,Male,mid-high level
+28,Software Engineer,1-2 years,2-5 years experience,Fluent,170000,Female,mid level
+43,Principal Engineer,10+ years,5 years+ experience,Fluent,700000,Male,high level
+23,Intern,Below 1 year,no experience,Intermediate,30000,Male,low level
+22,Junior Engineer,1-2 years,1-2 years experience,Fluent,50000,Male,low-mid level
+41,Senior Engineer,5-10 years,5 years+ experience,Fluent,400000,Female,mid-high level
+32,Associate Engineer,2-5 years,1-2 years experience,Fluent,120000,Male,mid level
+48,Tech Lead,5-10 years,5 years+ experience,Fluent,770000,Male,high level
+21,Intern,No experience,no experience,Beginner,50000,Male,low level
+26,Junior Engineer,1-2 years,1-2 years experience,Beginner,50000,Female,low-mid level
+44,Senior Engineer,5-10 years,5 years+ experience,Fluent,250000,Male,mid-high level
+28,Software Engineer,1-2 years,2-5 years experience,Fluent,190000,Male,mid level
+35,Senior Engineer,10+ years,5 years+ experience,Fluent,540000,Male,high level
+21,Intern,No experience,no experience,Fluent,50000,Male,low level
+20,Junior Developer,1-2 years,2-5 years experience,Fluent,60000,Female,low-mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,360000,Male,mid-high level
+32,Software Engineer,2-5 years,2-5 years experience,Fluent,140000,Male,mid level
+42,Principal Engineer,5-10 years,5 years+ experience,Fluent,590000,Male,high level
+20,Intern,Below 1 year,no experience,Fluent,40000,Male,low level
+24,Junior Developer,1-2 years,1-2 years experience,Beginner,60000,Male,low-mid level
+35,Software Engineer,5-10 years,5 years+ experience,Fluent,340000,Male,mid-high level
+28,Associate Engineer,2-5 years,2-5 years experience,Fluent,160000,Female,mid level
+34,Tech Lead,5-10 years,5 years+ experience,Fluent,860000,Male,high level
+21,Trainee,Below 1 year,no experience,Fluent,40000,Male,low level
+23,Junior Engineer,1-2 years,2-5 years experience,Beginner,80000,Male,low-mid level
+37,Senior Engineer,5-10 years,5 years+ experience,Fluent,400000,Male,mid-high level
+29,Associate Engineer,1-2 years,1-2 years experience,Fluent,170000,Male,mid level
+53,Principal Engineer,10+ years,5 years+ experience,Fluent,760000,Male,high level
+20,Junior Developer,No experience,no experience,Beginner,40000,Male,low level
+20,Junior Developer,1-2 years,1-2 years experience,Beginner,70000,Female,low-mid level
+32,Tech Lead,5-10 years,5 years+ experience,Fluent,250000,Male,mid-high level
+32,Associate Engineer,2-5 years,1-2 years experience,Fluent,170000,Female,mid level
+46,Tech Lead,10+ years,5 years+ experience,Fluent,980000,Male,high level
+20,Intern,Below 1 year,no experience,Beginner,40000,Male,low level
+20,Associate Engineer,1-2 years,2-5 years experience,Fluent,60000,Female,low-mid level
+36,Software Engineer,5-10 years,5 years+ experience,Fluent,290000,Male,mid-high level
+34,Software Engineer,1-2 years,1-2 years experience,Fluent,200000,Female,mid level
+36,Tech Lead,10+ years,5 years+ experience,Fluent,610000,Male,high level
+23,Trainee,No experience,no experience,Intermediate,30000,Male,low level
+24,Associate Engineer,1-2 years,2-5 years experience,Beginner,80000,Male,low-mid level
+45,Senior Engineer,5-10 years,5 years+ experience,Fluent,230000,Male,mid-high level
+31,Software Engineer,2-5 years,1-2 years experience,Fluent,180000,Male,mid level
+46,Principal Engineer,10+ years,5 years+ experience,Fluent,730000,Male,high level
+22,Intern,No experience,no experience,Fluent,30000,Male,low level
+25,Associate Engineer,1-2 years,1-2 years experience,Fluent,50000,Male,low-mid level
+50,Senior Engineer,5-10 years,5 years+ experience,Fluent,420000,Male,mid-high level
+32,Software Engineer,1-2 years,1-2 years experience,Fluent,130000,Male,mid level
+53,Tech Lead,5-10 years,5 years+ experience,Fluent,880000,Male,high level
+23,Trainee,Below 1 year,no experience,Fluent,40000,Male,low level
+21,Junior Developer,1-2 years,2-5 years experience,Fluent,60000,Male,low-mid level
+38,Tech Lead,5-10 years,5 years+ experience,Fluent,230000,Male,mid-high level
+31,Software Engineer,1-2 years,2-5 years experience,Fluent,130000,Female,mid level
+55,Senior Engineer,5-10 years,5 years+ experience,Fluent,540000,Male,high level
+19,Junior Developer,Below 1 year,no experience,Fluent,50000,Male,low level
+24,Associate Engineer,1-2 years,2-5 years experience,Beginner,70000,Female,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,250000,Male,mid-high level
+30,Software Engineer,2-5 years,1-2 years experience,Fluent,140000,Female,mid level
+54,Tech Lead,10+ years,5 years+ experience,Fluent,520000,Male,high level
+21,Intern,Below 1 year,no experience,Beginner,50000,Male,low level
+26,Junior Developer,1-2 years,2-5 years experience,Intermediate,50000,Female,low-mid level
+33,Senior Engineer,5-10 years,5 years+ experience,Fluent,460000,Male,mid-high level
+32,Associate Engineer,1-2 years,1-2 years experience,Fluent,170000,Female,mid level
+42,Tech Lead,10+ years,5 years+ experience,Fluent,500000,Male,high level
+18,Intern,No experience,no experience,Fluent,40000,Female,low level
+28,Junior Developer,1-2 years,2-5 years experience,Beginner,60000,Male,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,270000,Female,mid-high level
+29,Software Engineer,2-5 years,2-5 years experience,Fluent,200000,Male,mid level
+46,Senior Engineer,10+ years,5 years+ experience,Fluent,790000,Male,high level
+20,Intern,No experience,no experience,Intermediate,50000,Male,low level
+22,Junior Engineer,1-2 years,1-2 years experience,Intermediate,60000,Female,low-mid level
+36,Senior Engineer,5-10 years,5 years+ experience,Fluent,440000,Female,mid-high level
+29,Software Engineer,1-2 years,1-2 years experience,Fluent,170000,Female,mid level
+51,Tech Lead,10+ years,5 years+ experience,Fluent,910000,Male,high level
+22,Trainee,Below 1 year,no experience,Beginner,40000,Male,low level
+24,Associate Engineer,1-2 years,2-5 years experience,Beginner,60000,Male,low-mid level
+48,Software Engineer,5-10 years,5 years+ experience,Fluent,330000,Male,mid-high level
+31,Associate Engineer,2-5 years,2-5 years experience,Fluent,120000,Male,mid level
+36,Tech Lead,5-10 years,5 years+ experience,Fluent,990000,Male,high level
+19,Intern,Below 1 year,no experience,Fluent,50000,Female,low level
+20,Junior Developer,1-2 years,1-2 years experience,Intermediate,80000,Male,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,450000,Male,mid-high level
+31,Associate Engineer,2-5 years,2-5 years experience,Fluent,130000,Female,mid level
+51,Senior Engineer,5-10 years,5 years+ experience,Fluent,550000,Male,high level
+18,Intern,No experience,no experience,Intermediate,30000,Male,low level
+24,Junior Engineer,1-2 years,1-2 years experience,Intermediate,70000,Male,low-mid level
+35,Software Engineer,5-10 years,5 years+ experience,Fluent,300000,Male,mid-high level
+35,Associate Engineer,2-5 years,1-2 years experience,Fluent,170000,Male,mid level
+33,Tech Lead,5-10 years,5 years+ experience,Fluent,820000,Male,high level
+22,Intern,Below 1 year,no experience,Fluent,30000,Male,low level
+26,Associate Engineer,1-2 years,2-5 years experience,Fluent,50000,Male,low-mid level
+49,Software Engineer,5-10 years,5 years+ experience,Fluent,390000,Male,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Fluent,130000,Male,mid level
+46,Senior Engineer,10+ years,5 years+ experience,Fluent,990000,Male,high level
+21,Trainee,Below 1 year,no experience,Intermediate,40000,Male,low level
+24,Associate Engineer,1-2 years,2-5 years experience,Beginner,70000,Male,low-mid level
+38,Senior Engineer,5-10 years,5 years+ experience,Fluent,340000,Male,mid-high level
+29,Associate Engineer,2-5 years,2-5 years experience,Fluent,140000,Male,mid level
+33,Tech Lead,5-10 years,5 years+ experience,Fluent,540000,Male,high level
+20,Junior Developer,Below 1 year,no experience,Intermediate,30000,Female,low level
+23,Junior Developer,1-2 years,1-2 years experience,Beginner,60000,Male,low-mid level
+35,Senior Engineer,5-10 years,5 years+ experience,Fluent,420000,Male,mid-high level
+29,Software Engineer,2-5 years,1-2 years experience,Fluent,130000,Male,mid level
+35,Tech Lead,5-10 years,5 years+ experience,Fluent,900000,Male,high level
+22,Junior Developer,No experience,no experience,Fluent,40000,Male,low level
+24,Associate Engineer,1-2 years,1-2 years experience,Intermediate,80000,Male,low-mid level
+32,Tech Lead,5-10 years,5 years+ experience,Fluent,200000,Male,mid-high level
+29,Software Engineer,1-2 years,1-2 years experience,Fluent,180000,Male,mid level
+53,Senior Engineer,10+ years,5 years+ experience,Fluent,940000,Male,high level
+21,Intern,Below 1 year,no experience,Fluent,50000,Female,low level
+22,Junior Engineer,1-2 years,2-5 years experience,Fluent,50000,Male,low-mid level
+35,Senior Engineer,5-10 years,5 years+ experience,Fluent,450000,Male,mid-high level
+35,Associate Engineer,1-2 years,1-2 years experience,Fluent,200000,Female,mid level
+45,Tech Lead,10+ years,5 years+ experience,Fluent,500000,Male,high level
+21,Junior Developer,No experience,no experience,Beginner,40000,Female,low level
+24,Junior Developer,1-2 years,2-5 years experience,Beginner,60000,Male,low-mid level
+35,Tech Lead,5-10 years,5 years+ experience,Fluent,440000,Male,mid-high level
+30,Software Engineer,1-2 years,2-5 years experience,Fluent,190000,Female,mid level
+54,Principal Engineer,10+ years,5 years+ experience,Fluent,580000,Male,high level
+22,Trainee,No experience,no experience,Intermediate,50000,Male,low level
+26,Junior Developer,1-2 years,2-5 years experience,Beginner,50000,Male,low-mid level
+33,Tech Lead,5-10 years,5 years+ experience,Fluent,210000,Male,mid-high level
+29,Software Engineer,1-2 years,1-2 years experience,Fluent,180000,Male,mid level
+55,Senior Engineer,5-10 years,5 years+ experience,Fluent,940000,Male,high level
+19,Junior Developer,Below 1 year,no experience,Intermediate,40000,Female,low level
+23,Junior Developer,1-2 years,2-5 years experience,Intermediate,60000,Male,low-mid level
+32,Senior Engineer,5-10 years,5 years+ experience,Fluent,330000,Male,mid-high level
+28,Software Engineer,2-5 years,2-5 years experience,Fluent,130000,Male,mid level
+49,Tech Lead,10+ years,5 years+ experience,Fluent,800000,Male,high level
+18,Trainee,No experience,no experience,Fluent,30000,Male,low level
+22,Junior Engineer,1-2 years,2-5 years experience,Fluent,50000,Female,low-mid level
+37,Senior Engineer,5-10 years,5 years+ experience,Fluent,380000,Male,mid-high level
+32,Software Engineer,1-2 years,2-5 years experience,Fluent,120000,Female,mid level
+31,Tech Lead,10+ years,5 years+ experience,Fluent,860000,Male,high level
+18,Trainee,No experience,no experience,Fluent,30000,Male,low level
+22,Associate Engineer,1-2 years,1-2 years experience,Fluent,50000,Female,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,260000,Male,mid-high level
+30,Software Engineer,1-2 years,2-5 years experience,Fluent,170000,Male,mid level
+44,Senior Engineer,5-10 years,5 years+ experience,Fluent,540000,Male,high level
+18,Intern,No experience,no experience,Intermediate,50000,Male,low level
+27,Junior Engineer,1-2 years,2-5 years experience,Fluent,60000,Male,low-mid level
+33,Senior Engineer,5-10 years,5 years+ experience,Fluent,290000,Male,mid-high level
+32,Software Engineer,2-5 years,1-2 years experience,Fluent,130000,Male,mid level
+41,Architect,10+ years,5 years+ experience,Fluent,850000,Male,high level
+23,Trainee,No experience,no experience,Fluent,50000,Male,low level
+22,Junior Developer,1-2 years,2-5 years experience,Fluent,60000,Male,low-mid level
+46,Senior Engineer,5-10 years,5 years+ experience,Fluent,220000,Male,mid-high level
+34,Associate Engineer,2-5 years,1-2 years experience,Fluent,180000,Male,mid level
+33,Principal Engineer,5-10 years,5 years+ experience,Fluent,950000,Male,high level
+20,Trainee,No experience,no experience,Intermediate,30000,Female,low level
+25,Junior Engineer,1-2 years,1-2 years experience,Intermediate,60000,Male,low-mid level
+42,Senior Engineer,5-10 years,5 years+ experience,Fluent,260000,Male,mid-high level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,120000,Male,mid level
+46,Senior Engineer,10+ years,5 years+ experience,Fluent,610000,Male,high level
+20,Trainee,Below 1 year,no experience,Intermediate,50000,Male,low level
+25,Associate Engineer,1-2 years,1-2 years experience,Beginner,60000,Male,low-mid level
+32,Senior Engineer,5-10 years,5 years+ experience,Fluent,240000,Male,mid-high level
+31,Software Engineer,1-2 years,1-2 years experience,Fluent,170000,Male,mid level
+45,Architect,5-10 years,5 years+ experience,Fluent,800000,Female,high level
+20,Intern,No experience,no experience,Intermediate,50000,Female,low level
+23,Junior Developer,1-2 years,1-2 years experience,Intermediate,50000,Male,low-mid level
+46,Tech Lead,5-10 years,5 years+ experience,Fluent,270000,Male,mid-high level
+29,Associate Engineer,2-5 years,2-5 years experience,Fluent,190000,Male,mid level
+49,Architect,5-10 years,5 years+ experience,Fluent,530000,Male,high level
+18,Trainee,Below 1 year,no experience,Beginner,30000,Male,low level
+22,Junior Developer,1-2 years,1-2 years experience,Beginner,50000,Female,low-mid level
+35,Senior Engineer,5-10 years,5 years+ experience,Fluent,440000,Female,mid-high level
+28,Software Engineer,2-5 years,2-5 years experience,Fluent,140000,Female,mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,570000,Male,high level
+19,Trainee,No experience,no experience,Intermediate,50000,Female,low level
+20,Associate Engineer,1-2 years,1-2 years experience,Beginner,60000,Male,low-mid level
+42,Tech Lead,5-10 years,5 years+ experience,Fluent,410000,Male,mid-high level
+31,Associate Engineer,1-2 years,2-5 years experience,Fluent,160000,Male,mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,870000,Male,high level
+23,Junior Developer,Below 1 year,no experience,Beginner,30000,Male,low level
+22,Junior Developer,1-2 years,1-2 years experience,Beginner,70000,Female,low-mid level
+34,Software Engineer,5-10 years,5 years+ experience,Fluent,330000,Male,mid-high level
+32,Associate Engineer,1-2 years,2-5 years experience,Fluent,170000,Male,mid level
+42,Senior Engineer,10+ years,5 years+ experience,Fluent,510000,Male,high level
+22,Junior Developer,Below 1 year,no experience,Fluent,40000,Male,low level
+23,Associate Engineer,1-2 years,1-2 years experience,Fluent,70000,Male,low-mid level
+34,Tech Lead,5-10 years,5 years+ experience,Fluent,310000,Male,mid-high level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,130000,Male,mid level
+42,Senior Engineer,10+ years,5 years+ experience,Fluent,980000,Female,high level
+18,Intern,No experience,no experience,Fluent,30000,Male,low level
+21,Junior Engineer,1-2 years,1-2 years experience,Fluent,50000,Male,low-mid level
+39,Tech Lead,5-10 years,5 years+ experience,Fluent,340000,Female,mid-high level
+31,Software Engineer,2-5 years,2-5 years experience,Fluent,180000,Male,mid level
+35,Senior Engineer,5-10 years,5 years+ experience,Fluent,900000,Male,high level
+23,Trainee,No experience,no experience,Fluent,40000,Female,low level
+27,Associate Engineer,1-2 years,2-5 years experience,Intermediate,70000,Male,low-mid level
+45,Senior Engineer,5-10 years,5 years+ experience,Fluent,280000,Male,mid-high level
+29,Associate Engineer,2-5 years,1-2 years experience,Fluent,170000,Female,mid level
+42,Principal Engineer,10+ years,5 years+ experience,Fluent,960000,Female,high level
+18,Trainee,No experience,no experience,Fluent,40000,Female,low level
+24,Junior Developer,1-2 years,2-5 years experience,Intermediate,80000,Male,low-mid level
+52,Software Engineer,5-10 years,5 years+ experience,Fluent,260000,Male,mid-high level
+28,Software Engineer,2-5 years,2-5 years experience,Fluent,140000,Male,mid level
+41,Principal Engineer,10+ years,5 years+ experience,Fluent,900000,Male,high level
+20,Trainee,No experience,no experience,Fluent,50000,Male,low level
+22,Junior Engineer,1-2 years,1-2 years experience,Intermediate,70000,Male,low-mid level
+32,Tech Lead,5-10 years,5 years+ experience,Fluent,460000,Male,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Fluent,150000,Male,mid level
+34,Senior Engineer,10+ years,5 years+ experience,Fluent,550000,Male,high level
+19,Intern,Below 1 year,no experience,Intermediate,50000,Male,low level
+27,Associate Engineer,1-2 years,2-5 years experience,Intermediate,70000,Female,low-mid level
+32,Software Engineer,5-10 years,5 years+ experience,Fluent,430000,Female,mid-high level
+34,Software Engineer,1-2 years,1-2 years experience,Fluent,160000,Male,mid level
+39,Senior Engineer,5-10 years,5 years+ experience,Fluent,900000,Male,high level
+22,Junior Developer,No experience,no experience,Intermediate,40000,Male,low level
+27,Junior Engineer,1-2 years,2-5 years experience,Beginner,80000,Male,low-mid level
+36,Tech Lead,5-10 years,5 years+ experience,Fluent,280000,Female,mid-high level
+32,Software Engineer,1-2 years,2-5 years experience,Fluent,130000,Male,mid level
+54,Senior Engineer,10+ years,5 years+ experience,Fluent,670000,Male,high level
+21,Intern,No experience,no experience,Beginner,30000,Male,low level
+24,Associate Engineer,1-2 years,2-5 years experience,Fluent,50000,Male,low-mid level
+38,Tech Lead,5-10 years,5 years+ experience,Fluent,370000,Male,mid-high level
+28,Software Engineer,1-2 years,1-2 years experience,Fluent,200000,Female,mid level
+50,Senior Engineer,5-10 years,5 years+ experience,Fluent,720000,Male,high level
+20,Trainee,Below 1 year,no experience,Beginner,30000,Male,low level
+22,Associate Engineer,1-2 years,2-5 years experience,Fluent,50000,Male,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,390000,Male,mid-high level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,140000,Male,mid level
+32,Principal Engineer,5-10 years,5 years+ experience,Fluent,620000,Female,high level
+23,Trainee,No experience,no experience,Fluent,40000,Male,low level
+20,Associate Engineer,1-2 years,1-2 years experience,Intermediate,70000,Female,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,200000,Male,mid-high level
+32,Associate Engineer,1-2 years,1-2 years experience,Fluent,180000,Male,mid level
+44,Senior Engineer,5-10 years,5 years+ experience,Fluent,610000,Male,high level
+19,Intern,Below 1 year,no experience,Beginner,30000,Male,low level
+22,Junior Developer,1-2 years,1-2 years experience,Fluent,60000,Male,low-mid level
+43,Tech Lead,5-10 years,5 years+ experience,Fluent,270000,Male,mid-high level
+28,Software Engineer,1-2 years,1-2 years experience,Fluent,120000,Male,mid level
+45,Tech Lead,10+ years,5 years+ experience,Fluent,810000,Male,high level
+20,Junior Developer,Below 1 year,no experience,Intermediate,30000,Male,low level
+25,Junior Engineer,1-2 years,2-5 years experience,Beginner,60000,Male,low-mid level
+41,Software Engineer,5-10 years,5 years+ experience,Fluent,360000,Male,mid-high level
+31,Software Engineer,1-2 years,1-2 years experience,Fluent,120000,Male,mid level
+51,Principal Engineer,5-10 years,5 years+ experience,Fluent,500000,Male,high level
+20,Trainee,No experience,no experience,Intermediate,30000,Male,low level
+20,Associate Engineer,1-2 years,1-2 years experience,Beginner,50000,Male,low-mid level
+34,Software Engineer,5-10 years,5 years+ experience,Fluent,270000,Male,mid-high level
+28,Associate Engineer,1-2 years,2-5 years experience,Fluent,140000,Female,mid level
+54,Tech Lead,5-10 years,5 years+ experience,Fluent,870000,Female,high level
+22,Junior Developer,Below 1 year,no experience,Fluent,50000,Male,low level
+28,Junior Developer,1-2 years,2-5 years experience,Beginner,70000,Male,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,230000,Male,mid-high level
+32,Associate Engineer,1-2 years,2-5 years experience,Fluent,160000,Male,mid level
+43,Senior Engineer,10+ years,5 years+ experience,Fluent,640000,Male,high level
+21,Intern,No experience,no experience,Fluent,50000,Male,low level
+22,Associate Engineer,1-2 years,1-2 years experience,Fluent,50000,Male,low-mid level
+40,Software Engineer,5-10 years,5 years+ experience,Fluent,280000,Male,mid-high level
+30,Associate Engineer,2-5 years,2-5 years experience,Fluent,180000,Female,mid level
+45,Senior Engineer,10+ years,5 years+ experience,Fluent,500000,Male,high level
+20,Junior Developer,No experience,no experience,Fluent,40000,Male,low level
+22,Junior Engineer,1-2 years,2-5 years experience,Intermediate,70000,Male,low-mid level
+32,Senior Engineer,5-10 years,5 years+ experience,Fluent,430000,Male,mid-high level
+32,Associate Engineer,1-2 years,1-2 years experience,Fluent,130000,Male,mid level
+52,Senior Engineer,10+ years,5 years+ experience,Fluent,980000,Male,high level
+18,Intern,No experience,no experience,Beginner,30000,Female,low level
+20,Junior Engineer,1-2 years,2-5 years experience,Beginner,60000,Female,low-mid level
+42,Software Engineer,5-10 years,5 years+ experience,Fluent,290000,Male,mid-high level
+29,Associate Engineer,1-2 years,1-2 years experience,Fluent,160000,Male,mid level
+33,Senior Engineer,10+ years,5 years+ experience,Fluent,620000,Male,high level
+23,Junior Developer,Below 1 year,no experience,Beginner,30000,Male,low level
+28,Junior Developer,1-2 years,1-2 years experience,Fluent,80000,Male,low-mid level
+42,Software Engineer,5-10 years,5 years+ experience,Fluent,240000,Male,mid-high level
+28,Associate Engineer,1-2 years,1-2 years experience,Fluent,200000,Male,mid level
+33,Tech Lead,5-10 years,5 years+ experience,Fluent,730000,Male,high level
+19,Trainee,Below 1 year,no experience,Fluent,50000,Male,low level
+21,Associate Engineer,1-2 years,1-2 years experience,Fluent,50000,Male,low-mid level
+34,Senior Engineer,5-10 years,5 years+ experience,Fluent,410000,Female,mid-high level
+32,Associate Engineer,1-2 years,2-5 years experience,Fluent,160000,Male,mid level
+55,Principal Engineer,5-10 years,5 years+ experience,Fluent,950000,Male,high level
+21,Intern,Below 1 year,no experience,Beginner,30000,Male,low level
+23,Junior Developer,1-2 years,1-2 years experience,Fluent,70000,Male,low-mid level
+32,Senior Engineer,5-10 years,5 years+ experience,Fluent,430000,Male,mid-high level
+28,Software Engineer,1-2 years,1-2 years experience,Fluent,120000,Male,mid level
+43,Senior Engineer,10+ years,5 years+ experience,Fluent,710000,Male,high level
+21,Trainee,Below 1 year,no experience,Fluent,40000,Male,low level
+25,Junior Engineer,1-2 years,1-2 years experience,Intermediate,80000,Male,low-mid level
+38,Tech Lead,5-10 years,5 years+ experience,Fluent,490000,Male,mid-high level
+31,Software Engineer,1-2 years,2-5 years experience,Fluent,170000,Male,mid level
+31,Senior Engineer,10+ years,5 years+ experience,Fluent,950000,Male,high level
+20,Intern,Below 1 year,no experience,Beginner,30000,Female,low level
+24,Junior Developer,1-2 years,1-2 years experience,Fluent,80000,Male,low-mid level
+32,Tech Lead,5-10 years,5 years+ experience,Fluent,280000,Male,mid-high level
+30,Software Engineer,2-5 years,2-5 years experience,Fluent,150000,Female,mid level
+37,Senior Engineer,10+ years,5 years+ experience,Fluent,730000,Male,high level
+23,Intern,Below 1 year,no experience,Beginner,50000,Female,low level
+25,Junior Engineer,1-2 years,1-2 years experience,Fluent,70000,Female,low-mid level
+35,Senior Engineer,5-10 years,5 years+ experience,Fluent,470000,Male,mid-high level
+31,Associate Engineer,1-2 years,2-5 years experience,Fluent,190000,Male,mid level
+52,Tech Lead,5-10 years,5 years+ experience,Fluent,730000,Female,high level
+21,Trainee,Below 1 year,no experience,Intermediate,30000,Male,low level
+22,Junior Engineer,1-2 years,2-5 years experience,Fluent,70000,Female,low-mid level
+51,Senior Engineer,5-10 years,5 years+ experience,Fluent,290000,Male,mid-high level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,200000,Female,mid level
+41,Architect,5-10 years,5 years+ experience,Fluent,960000,Male,high level
+21,Trainee,No experience,no experience,Intermediate,40000,Male,low level
+21,Junior Engineer,1-2 years,2-5 years experience,Beginner,50000,Female,low-mid level
+42,Tech Lead,5-10 years,5 years+ experience,Fluent,230000,Male,mid-high level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,190000,Male,mid level
+35,Tech Lead,10+ years,5 years+ experience,Fluent,720000,Male,high level
+23,Intern,Below 1 year,no experience,Fluent,40000,Female,low level
+24,Junior Engineer,1-2 years,1-2 years experience,Fluent,80000,Male,low-mid level
+47,Tech Lead,5-10 years,5 years+ experience,Fluent,230000,Male,mid-high level
+30,Associate Engineer,1-2 years,2-5 years experience,Fluent,120000,Female,mid level
+42,Senior Engineer,5-10 years,5 years+ experience,Fluent,900000,Male,high level
+19,Intern,Below 1 year,no experience,Fluent,40000,Male,low level
+25,Junior Developer,1-2 years,2-5 years experience,Intermediate,70000,Male,low-mid level
+50,Software Engineer,5-10 years,5 years+ experience,Fluent,500000,Male,mid-high level
+29,Associate Engineer,2-5 years,1-2 years experience,Fluent,200000,Male,mid level
+46,Tech Lead,5-10 years,5 years+ experience,Fluent,910000,Male,high level
+21,Intern,No experience,no experience,Intermediate,44000,Male,low level
+23,Junior Developer,1-2 years,no experience,Fluent,80000,Female,low-mid level
+40,Software Engineer,2-5 years,no experience,Fluent,100000,Male,mid-high level
+30,Software Engineer,10+ years,1-2 years experience,Intermediate,119000,Female,mid level
+47,Senior Engineer,2-5 years,2-5 years experience,Fluent,178000,Male,high level
+18,Trainee,No experience,no experience,Beginner,37000,Male,low level
+25,Junior Engineer,2-5 years,2-5 years experience,Intermediate,66000,Female,low-mid level
+43,Software Engineer,5-10 years,2-5 years experience,Fluent,91000,Male,mid-high level
+31,Software Engineer,2-5 years,2-5 years experience,Fluent,114000,Male,mid level
+50,Senior Engineer,5-10 years,1-2 years experience,Fluent,159000,Male,high level
+21,Intern,Below 1 year,no experience,Beginner,39000,Male,low level
+21,Junior Developer,1-2 years,no experience,Intermediate,70000,Male,low-mid level
+29,Senior Engineer,2-5 years,2-5 years experience,Fluent,157000,Male,mid-high level
+31,Associate Engineer,2-5 years,no experience,Intermediate,80000,Female,mid level
+55,Tech Lead,5-10 years,5 years+ experience,Fluent,169000,Female,high level
+20,Intern,No experience,no experience,Beginner,45000,Male,low level
+23,Junior Developer,1-2 years,2-5 years experience,Fluent,59000,Male,low-mid level
+41,Tech Lead,10+ years,5 years+ experience,Fluent,183000,Male,mid-high level
+33,Associate Engineer,2-5 years,no experience,Fluent,100000,Male,mid level
+37,Senior Engineer,5-10 years,2-5 years experience,Intermediate,154000,Male,high level
+19,Junior Developer,1-2 years,2-5 years experience,Intermediate,73000,Female,low level
+21,Junior Engineer,1-2 years,2-5 years experience,Fluent,76000,Male,low-mid level
+28,Software Engineer,5-10 years,no experience,Fluent,85000,Male,mid-high level
+30,Software Engineer,5-10 years,1-2 years experience,Fluent,97000,Male,mid level
+55,Principal Engineer,10+ years,5 years+ experience,Fluent,279000,Male,high level
+23,Intern,No experience,no experience,Beginner,31000,Female,low level
+27,Junior Developer,1-2 years,no experience,Intermediate,63000,Male,low-mid level
+40,Software Engineer,10+ years,1-2 years experience,Fluent,93000,Male,mid-high level
+32,Software Engineer,5-10 years,1-2 years experience,Fluent,96000,Female,mid level
+34,Senior Engineer,5-10 years,no experience,Fluent,147000,Male,high level
+23,Junior Developer,1-2 years,2-5 years experience,Intermediate,72000,Female,low level
+22,Junior Developer,1-2 years,no experience,Intermediate,67000,Male,low-mid level
+39,Software Engineer,2-5 years,2-5 years experience,Fluent,101000,Male,mid-high level
+29,Associate Engineer,1-2 years,1-2 years experience,Intermediate,90000,Female,mid level
+43,Principal Engineer,5-10 years,5 years+ experience,Fluent,230000,Male,high level
+22,Intern,Below 1 year,no experience,Beginner,44000,Male,low level
+24,Associate Engineer,2-5 years,no experience,Intermediate,72000,Male,low-mid level
+45,Tech Lead,10+ years,5 years+ experience,Fluent,244000,Female,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Intermediate,98000,Male,mid level
+51,Senior Engineer,10+ years,1-2 years experience,Intermediate,173000,Male,high level
+18,Trainee,Below 1 year,no experience,Intermediate,46000,Male,low level
+21,Associate Engineer,1-2 years,1-2 years experience,Intermediate,99000,Male,low-mid level
+45,Senior Engineer,2-5 years,2-5 years experience,Intermediate,179000,Male,mid-high level
+30,Software Engineer,10+ years,no experience,Intermediate,91000,Male,mid level
+34,Tech Lead,10+ years,5 years+ experience,Fluent,218000,Male,high level
+22,Intern,Below 1 year,no experience,Intermediate,40000,Female,low level
+24,Junior Engineer,1-2 years,2-5 years experience,Fluent,58000,Male,low-mid level
+44,Senior Engineer,5-10 years,2-5 years experience,Intermediate,165000,Male,mid-high level
+29,Associate Engineer,1-2 years,1-2 years experience,Fluent,98000,Male,mid level
+30,Senior Engineer,2-5 years,2-5 years experience,Fluent,140000,Male,high level
+23,Trainee,Below 1 year,no experience,Intermediate,42000,Female,low level
+25,Junior Developer,1-2 years,no experience,Intermediate,80000,Female,low-mid level
+32,Tech Lead,10+ years,5 years+ experience,Fluent,203000,Male,mid-high level
+28,Software Engineer,10+ years,1-2 years experience,Intermediate,97000,Female,mid level
+55,Senior Engineer,2-5 years,2-5 years experience,Intermediate,163000,Male,high level
+23,Intern,Below 1 year,no experience,Beginner,44000,Female,low level
+24,Junior Engineer,1-2 years,no experience,Fluent,78000,Female,low-mid level
+32,Tech Lead,5-10 years,5 years+ experience,Fluent,185000,Male,mid-high level
+28,Software Engineer,2-5 years,2-5 years experience,Intermediate,98000,Female,mid level
+31,Senior Engineer,2-5 years,2-5 years experience,Fluent,173000,Male,high level
+23,Intern,No experience,no experience,Intermediate,31000,Male,low level
+20,Junior Engineer,2-5 years,no experience,Intermediate,80000,Female,low-mid level
+40,Tech Lead,5-10 years,5 years+ experience,Fluent,245000,Male,mid-high level
+35,Associate Engineer,1-2 years,no experience,Fluent,75000,Male,mid level
+37,Senior Engineer,5-10 years,1-2 years experience,Intermediate,174000,Male,high level
+19,Trainee,Below 1 year,no experience,Beginner,38000,Male,low level
+20,Associate Engineer,2-5 years,no experience,Intermediate,99000,Male,low-mid level
+44,Software Engineer,10+ years,1-2 years experience,Intermediate,93000,Male,mid-high level
+28,Software Engineer,10+ years,2-5 years experience,Fluent,113000,Male,mid level
+40,Senior Engineer,10+ years,no experience,Fluent,138000,Male,high level
+20,Trainee,Below 1 year,no experience,Beginner,46000,Male,low level
+25,Junior Engineer,2-5 years,1-2 years experience,Fluent,72000,Male,low-mid level
+50,Senior Engineer,5-10 years,2-5 years experience,Intermediate,170000,Male,mid-high level
+32,Associate Engineer,1-2 years,1-2 years experience,Intermediate,82000,Male,mid level
+30,Tech Lead,5-10 years,5 years+ experience,Fluent,205000,Male,high level
+23,Trainee,No experience,no experience,Beginner,43000,Female,low level
+21,Associate Engineer,2-5 years,2-5 years experience,Fluent,88000,Male,low-mid level
+51,Tech Lead,10+ years,5 years+ experience,Fluent,173000,Male,mid-high level
+30,Software Engineer,2-5 years,1-2 years experience,Fluent,96000,Male,mid level
+42,Tech Lead,5-10 years,5 years+ experience,Fluent,160000,Male,high level
+23,Trainee,Below 1 year,no experience,Beginner,41000,Female,low level
+20,Junior Developer,1-2 years,no experience,Fluent,76000,Female,low-mid level
+38,Tech Lead,10+ years,5 years+ experience,Fluent,164000,Male,mid-high level
+34,Software Engineer,10+ years,no experience,Fluent,100000,Male,mid level
+31,Architect,5-10 years,5 years+ experience,Fluent,303000,Male,high level
+23,Junior Developer,1-2 years,2-5 years experience,Intermediate,66000,Male,low level
+25,Junior Developer,1-2 years,1-2 years experience,Intermediate,59000,Female,low-mid level
+30,Senior Engineer,2-5 years,no experience,Fluent,180000,Male,mid-high level
+32,Associate Engineer,1-2 years,1-2 years experience,Intermediate,71000,Female,mid level
+40,Tech Lead,10+ years,5 years+ experience,Fluent,171000,Male,high level
+20,Intern,No experience,no experience,Beginner,35000,Male,low level
+25,Junior Engineer,1-2 years,no experience,Intermediate,61000,Male,low-mid level
+40,Tech Lead,10+ years,5 years+ experience,Fluent,193000,Male,mid-high level
+30,Software Engineer,2-5 years,1-2 years experience,Fluent,100000,Male,mid level
+49,Tech Lead,5-10 years,5 years+ experience,Fluent,204000,Female,high level
+18,Trainee,No experience,no experience,Beginner,49000,Male,low level
+20,Junior Engineer,1-2 years,2-5 years experience,Fluent,65000,Male,low-mid level
+42,Tech Lead,10+ years,5 years+ experience,Fluent,184000,Male,mid-high level
+28,Associate Engineer,1-2 years,2-5 years experience,Intermediate,76000,Female,mid level
+41,Tech Lead,5-10 years,5 years+ experience,Fluent,185000,Male,high level
+18,Junior Developer,1-2 years,no experience,Fluent,66000,Male,low level
+20,Junior Engineer,1-2 years,1-2 years experience,Fluent,55000,Female,low-mid level
+21,Associate Engineer,2-5 years,2-5 years experience,Intermediate,86000,Male,low-mid level
+25,Junior Developer,1-2 years,2-5 years experience,Intermediate,57000,Female,low-mid level
+27,Junior Developer,1-2 years,no experience,Fluent,66000,Female,low-mid level
+21,Intern,No experience,no experience,Beginner,38000,Female,low level
+21,Associate Engineer,2-5 years,no experience,Intermediate,91000,Female,low-mid level
+24,Junior Developer,1-2 years,2-5 years experience,Intermediate,62000,Female,low-mid level
+21,Junior Engineer,1-2 years,1-2 years experience,Intermediate,70000,Female,low-mid level
+25,Junior Engineer,2-5 years,1-2 years experience,Fluent,79000,Male,low-mid level
+23,Intern,No experience,no experience,Intermediate,30000,Male,low level
+20,Junior Engineer,2-5 years,1-2 years experience,Intermediate,62000,Female,low-mid level
+25,Junior Engineer,1-2 years,1-2 years experience,Fluent,61000,Male,low-mid level
+26,Junior Engineer,2-5 years,2-5 years experience,Fluent,80000,Male,low-mid level
+24,Junior Developer,1-2 years,1-2 years experience,Intermediate,63000,Male,low-mid level
+21,Intern,Below 1 year,no experience,Intermediate,36000,Male,low level
+22,Junior Engineer,2-5 years,no experience,Intermediate,54000,Male,low-mid level
+21,Junior Engineer,1-2 years,1-2 years experience,Intermediate,80000,Female,low-mid level
+27,Junior Engineer,2-5 years,2-5 years experience,Intermediate,51000,Male,low-mid level
+22,Junior Engineer,1-2 years,no experience,Fluent,51000,Female,low-mid level
+20,Intern,Below 1 year,no experience,Intermediate,30000,Male,low level
+22,Associate Engineer,2-5 years,1-2 years experience,Intermediate,100000,Male,low-mid level
+24,Junior Developer,1-2 years,1-2 years experience,Fluent,64000,Male,low-mid level
+24,Junior Developer,1-2 years,1-2 years experience,Intermediate,80000,Male,low-mid level
+23,Junior Engineer,1-2 years,no experience,Fluent,66000,Male,low-mid level
+20,Intern,No experience,no experience,Beginner,37000,Male,low level
+21,Junior Developer,1-2 years,1-2 years experience,Intermediate,68000,Male,low-mid level
+24,Junior Developer,1-2 years,1-2 years experience,Fluent,75000,Male,low-mid level
+24,Junior Developer,1-2 years,1-2 years experience,Intermediate,50000,Female,low-mid level
+25,Associate Engineer,2-5 years,2-5 years experience,Fluent,70000,Male,low-mid level
+18,Junior Developer,1-2 years,no experience,Intermediate,80000,Female,low level
+21,Junior Developer,1-2 years,1-2 years experience,Fluent,69000,Male,low-mid level
+22,Associate Engineer,1-2 years,no experience,Intermediate,81000,Male,low-mid level
+27,Associate Engineer,1-2 years,no experience,Intermediate,88000,Male,low-mid level
+24,Junior Engineer,2-5 years,1-2 years experience,Fluent,60000,Female,low-mid level
+21,Intern,Below 1 year,no experience,Intermediate,34000,Male,low level
+26,Junior Developer,1-2 years,1-2 years experience,Fluent,71000,Male,low-mid level
+21,Junior Developer,1-2 years,1-2 years experience,Fluent,71000,Male,low-mid level
+20,Junior Engineer,2-5 years,1-2 years experience,Intermediate,73000,Male,low-mid level
+25,Associate Engineer,1-2 years,1-2 years experience,Intermediate,76000,Male,low-mid level
+18,Intern,No experience,no experience,Beginner,33000,Male,low level
+22,Junior Developer,1-2 years,no experience,Fluent,60000,Male,low-mid level
+24,Junior Developer,1-2 years,1-2 years experience,Fluent,73000,Male,low-mid level
+20,Junior Developer,1-2 years,1-2 years experience,Fluent,67000,Female,low-mid level
+23,Junior Engineer,1-2 years,2-5 years experience,Intermediate,70000,Male,low-mid level
+23,Intern,No experience,no experience,Beginner,44000,Male,low level
+22,Junior Engineer,1-2 years,no experience,Fluent,52000,Male,low-mid level
+23,Junior Engineer,2-5 years,no experience,Intermediate,60000,Female,low-mid level
+23,Junior Developer,1-2 years,2-5 years experience,Intermediate,78000,Male,low-mid level
+25,Junior Developer,1-2 years,2-5 years experience,Fluent,58000,Male,low-mid level
+23,Intern,No experience,no experience,Intermediate,34000,Male,low level
+22,Junior Developer,1-2 years,no experience,Intermediate,51000,Female,low-mid level
+30,Associate Engineer,2-5 years,1-2 years experience,Intermediate,91000,Male,mid level
+31,Associate Engineer,1-2 years,2-5 years experience,Intermediate,86000,Female,mid level
+31,Software Engineer,2-5 years,no experience,Intermediate,80000,Female,mid level
+21,Intern,Below 1 year,no experience,Intermediate,31000,Female,low level
+23,Associate Engineer,2-5 years,no experience,Intermediate,71000,Male,low-mid level
+32,Software Engineer,2-5 years,1-2 years experience,Fluent,87000,Male,mid level
+33,Associate Engineer,2-5 years,no experience,Intermediate,83000,Male,mid level
+34,Associate Engineer,2-5 years,no experience,Fluent,96000,Male,mid level
+19,Intern,No experience,no experience,Intermediate,46000,Male,low level
+23,Associate Engineer,2-5 years,2-5 years experience,Fluent,77000,Male,low-mid level
+31,Software Engineer,5-10 years,no experience,Intermediate,103000,Female,mid level
+31,Software Engineer,10+ years,no experience,Fluent,102000,Female,mid level
+35,Associate Engineer,1-2 years,2-5 years experience,Fluent,97000,Female,mid level
+22,Junior Developer,1-2 years,no experience,Fluent,62000,Female,low level
+25,Junior Developer,1-2 years,1-2 years experience,Intermediate,63000,Female,low-mid level
+32,Software Engineer,5-10 years,1-2 years experience,Intermediate,91000,Male,mid level
+31,Associate Engineer,2-5 years,2-5 years experience,Fluent,100000,Male,mid level
+28,Associate Engineer,2-5 years,2-5 years experience,Intermediate,89000,Male,mid level
+19,Trainee,No experience,no experience,Beginner,34000,Female,low level
+22,Associate Engineer,1-2 years,1-2 years experience,Intermediate,72000,Male,low-mid level
+31,Software Engineer,5-10 years,no experience,Intermediate,106000,Male,mid level
+31,Software Engineer,5-10 years,2-5 years experience,Fluent,88000,Male,mid level
+29,Software Engineer,5-10 years,1-2 years experience,Intermediate,102000,Female,mid level
+19,Intern,Below 1 year,no experience,Beginner,48000,Male,low level
+26,Associate Engineer,1-2 years,1-2 years experience,Intermediate,85000,Male,low-mid level
+20,Trainee,Below 1 year,no experience,Beginner,50000,Male,low level
+31,Software Engineer,10+ years,1-2 years experience,Intermediate,98000,Female,mid level
+18,Intern,Below 1 year,no experience,Beginner,43000,Male,low level
+22,Trainee,Below 1 year,no experience,Intermediate,43000,Female,low level
+23,Junior Developer,1-2 years,2-5 years experience,Intermediate,53000,Male,low-mid level
+19,Trainee,No experience,no experience,Intermediate,49000,Male,low level
+30,Associate Engineer,2-5 years,1-2 years experience,Fluent,90000,Female,mid level
+22,Intern,Below 1 year,no experience,Beginner,36000,Female,low level
+18,Intern,Below 1 year,no experience,Beginner,31000,Male,low level
+21,Junior Developer,1-2 years,2-5 years experience,Intermediate,64000,Male,low-mid level
+20,Intern,No experience,no experience,Intermediate,40000,Male,low level
+29,Software Engineer,5-10 years,no experience,Intermediate,101000,Male,mid level
+20,Intern,Below 1 year,no experience,Beginner,42000,Female,low level
+23,Intern,No experience,no experience,Intermediate,43000,Male,low level
+20,Junior Engineer,1-2 years,no experience,Fluent,64000,Female,low-mid level
+21,Intern,Below 1 year,no experience,Beginner,30000,Female,low level
+31,Associate Engineer,1-2 years,2-5 years experience,Intermediate,81000,Female,mid level
+19,Trainee,Below 1 year,no experience,Intermediate,49000,Male,low level
+22,Intern,No experience,no experience,Intermediate,50000,Male,low level
+25,Associate Engineer,1-2 years,2-5 years experience,Fluent,86000,Female,low-mid level
+22,Trainee,No experience,no experience,Beginner,32000,Male,low level
+29,Software Engineer,10+ years,no experience,Intermediate,90000,Male,mid level
+19,Trainee,Below 1 year,no experience,Beginner,30000,Female,low level
+23,Intern,Below 1 year,no experience,Intermediate,41000,Male,low level
+21,Junior Developer,1-2 years,1-2 years experience,Fluent,65000,Female,low-mid level
+19,Intern,No experience,no experience,Intermediate,38000,Female,low level
+29,Associate Engineer,1-2 years,1-2 years experience,Fluent,78000,Female,mid level
+22,Intern,Below 1 year,no experience,Beginner,30000,Male,low level
+19,Intern,No experience,no experience,Beginner,42000,Male,low level
+21,Junior Developer,1-2 years,1-2 years experience,Intermediate,64000,Female,low-mid level
+22,Trainee,No experience,no experience,Beginner,44000,Male,low level
+29,Associate Engineer,1-2 years,1-2 years experience,Intermediate,74000,Female,mid level
+21,Intern,No experience,no experience,Intermediate,38000,Female,low level
+19,Intern,No experience,no experience,Intermediate,33000,Male,low level
+23,Junior Engineer,1-2 years,2-5 years experience,Intermediate,51000,Female,low-mid level
+19,Intern,No experience,no experience,Intermediate,46000,Male,low level
+32,Associate Engineer,2-5 years,2-5 years experience,Intermediate,86000,Male,mid level
+18,Intern,No experience,no experience,Beginner,44000,Male,low level
+18,Trainee,Below 1 year,no experience,Intermediate,40000,Male,low level
+25,Associate Engineer,1-2 years,2-5 years experience,Intermediate,84000,Male,low-mid level
+18,Intern,Below 1 year,no experience,Beginner,50000,Male,low level
+30,Associate Engineer,1-2 years,2-5 years experience,Fluent,77000,Male,mid level
+23,Intern,No experience,no experience,Beginner,37000,Male,low level
+22,Intern,Below 1 year,no experience,Beginner,39000,Male,low level
+24,Associate Engineer,1-2 years,no experience,Fluent,70000,Male,low-mid level
+20,Intern,No experience,no experience,Beginner,45000,Female,low level
+31,Software Engineer,5-10 years,2-5 years experience,Fluent,119000,Male,mid level
+21,Intern,No experience,no experience,Beginner,41000,Female,low level
+23,Trainee,No experience,no experience,Intermediate,36000,Male,low level
+25,Junior Developer,1-2 years,1-2 years experience,Fluent,78000,Male,low-mid level
+21,Intern,Below 1 year,no experience,Beginner,44000,Female,low level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,71000,Female,mid level
+19,Intern,No experience,no experience,Intermediate,34000,Male,low level
+23,Intern,No experience,no experience,Beginner,37000,Male,low level
+26,Junior Engineer,1-2 years,no experience,Intermediate,60000,Male,low-mid level
+22,Junior Developer,1-2 years,1-2 years experience,Fluent,51000,Female,low level
+28,Software Engineer,10+ years,no experience,Intermediate,80000,Male,mid level
+20,Intern,Below 1 year,no experience,Beginner,42000,Male,low level
+20,Junior Developer,1-2 years,2-5 years experience,Intermediate,58000,Female,low level
+24,Junior Developer,1-2 years,1-2 years experience,Intermediate,76000,Male,low-mid level
+18,Intern,No experience,no experience,Intermediate,48000,Male,low level
+31,Software Engineer,10+ years,1-2 years experience,Fluent,113000,Male,mid level
+18,Trainee,Below 1 year,no experience,Intermediate,42000,Male,low level
+19,Junior Developer,1-2 years,no experience,Intermediate,52000,Male,low level
+26,Junior Engineer,1-2 years,2-5 years experience,Intermediate,53000,Male,low-mid level
+22,Intern,Below 1 year,no experience,Beginner,45000,Male,low level
+28,Software Engineer,2-5 years,2-5 years experience,Fluent,100000,Male,mid level
+19,Intern,No experience,no experience,Intermediate,39000,Female,low level
+21,Intern,No experience,no experience,Intermediate,48000,Male,low level
+25,Junior Developer,1-2 years,no experience,Intermediate,65000,Male,low-mid level
+21,Trainee,Below 1 year,no experience,Intermediate,50000,Male,low level
+32,Associate Engineer,1-2 years,2-5 years experience,Intermediate,90000,Male,mid level
+19,Intern,No experience,no experience,Intermediate,33000,Male,low level
+19,Intern,No experience,no experience,Intermediate,34000,Female,low level
+23,Junior Developer,1-2 years,1-2 years experience,Fluent,70000,Male,low-mid level
+22,Intern,Below 1 year,no experience,Beginner,35000,Male,low level
+29,Software Engineer,10+ years,2-5 years experience,Intermediate,93000,Female,mid level
+22,Intern,No experience,no experience,Beginner,43000,Female,low level
+21,Junior Developer,1-2 years,no experience,Intermediate,79000,Female,low level
+24,Junior Developer,1-2 years,1-2 years experience,Intermediate,74000,Female,low-mid level
+19,Intern,No experience,no experience,Beginner,33000,Male,low level
+32,Software Engineer,5-10 years,2-5 years experience,Intermediate,89000,Male,mid level
+20,Junior Developer,1-2 years,2-5 years experience,Intermediate,54000,Male,low level
+20,Intern,No experience,no experience,Beginner,45000,Male,low level
+28,Associate Engineer,1-2 years,2-5 years experience,Fluent,93000,Female,low-mid level
+21,Intern,No experience,no experience,Beginner,36000,Female,low level
+32,Software Engineer,5-10 years,2-5 years experience,Intermediate,114000,Female,mid level
+20,Intern,No experience,no experience,Intermediate,41000,Male,low level
+22,Junior Developer,1-2 years,no experience,Fluent,68000,Male,low level
+25,Associate Engineer,1-2 years,1-2 years experience,Intermediate,81000,Female,low-mid level
+19,Intern,No experience,no experience,Intermediate,47000,Male,low level
+34,Software Engineer,2-5 years,no experience,Intermediate,120000,Female,mid level
+19,Junior Developer,1-2 years,1-2 years experience,Intermediate,55000,Male,low level
+22,Intern,No experience,no experience,Beginner,41000,Female,low level
+22,Junior Developer,1-2 years,no experience,Intermediate,59000,Male,low-mid level
+22,Intern,Below 1 year,no experience,Beginner,35000,Male,low level
+33,Software Engineer,10+ years,no experience,Fluent,119000,Male,mid level
+23,Intern,No experience,no experience,Intermediate,31000,Male,low level
+21,Intern,No experience,no experience,Intermediate,30000,Male,low level
+25,Junior Developer,1-2 years,no experience,Fluent,60000,Female,low-mid level
+19,Junior Developer,1-2 years,1-2 years experience,Intermediate,55000,Male,low level
+32,Associate Engineer,1-2 years,2-5 years experience,Intermediate,89000,Male,mid level
+18,Intern,No experience,no experience,Beginner,37000,Male,low level
+20,Trainee,Below 1 year,no experience,Beginner,48000,Male,low level
+25,Junior Developer,1-2 years,2-5 years experience,Fluent,59000,Female,low-mid level
+21,Intern,No experience,no experience,Beginner,50000,Male,low level
+35,Associate Engineer,1-2 years,1-2 years experience,Intermediate,75000,Male,mid level
+21,Intern,No experience,no experience,Beginner,48000,Male,low level
+23,Intern,No experience,no experience,Beginner,42000,Male,low level
+21,Junior Engineer,1-2 years,no experience,Intermediate,60000,Female,low-mid level
+20,Trainee,Below 1 year,no experience,Intermediate,50000,Male,low level
+31,Associate Engineer,2-5 years,2-5 years experience,Intermediate,91000,Male,mid level
+35,Software Engineer,2-5 years,1-2 years experience,Intermediate,107000,Male,mid-high level
+18,Intern,Below 1 year,no experience,Intermediate,41000,Female,low level
+21,Associate Engineer,1-2 years,2-5 years experience,Intermediate,71000,Male,low-mid level
+38,Senior Engineer,5-10 years,1-2 years experience,Fluent,139000,Female,mid-high level
+28,Software Engineer,5-10 years,2-5 years experience,Fluent,120000,Female,mid level
+36,Tech Lead,5-10 years,5 years+ experience,Fluent,216000,Male,mid-high level
+19,Intern,No experience,no experience,Intermediate,36000,Male,low level
+20,Junior Engineer,1-2 years,no experience,Fluent,57000,Male,low-mid level
+41,Tech Lead,10+ years,5 years+ experience,Fluent,209000,Male,mid-high level
+32,Software Engineer,2-5 years,2-5 years experience,Intermediate,84000,Female,mid level
+28,Software Engineer,10+ years,1-2 years experience,Fluent,88000,Female,mid-high level
+23,Intern,Below 1 year,no experience,Beginner,49000,Male,low level
+28,Junior Engineer,1-2 years,2-5 years experience,Fluent,77000,Male,low-mid level
+52,Software Engineer,2-5 years,no experience,Intermediate,82000,Male,mid-high level
+30,Software Engineer,10+ years,no experience,Intermediate,87000,Male,mid level
+18,Trainee,No experience,no experience,Intermediate,47000,Male,low level
+18,Trainee,Below 1 year,no experience,Intermediate,48000,Male,low level
+21,Junior Engineer,2-5 years,1-2 years experience,Fluent,70000,Male,low-mid level
+55,Software Engineer,5-10 years,no experience,Intermediate,118000,Male,mid-high level
+31,Software Engineer,10+ years,no experience,Intermediate,109000,Male,mid level
+23,Trainee,No experience,no experience,Intermediate,49000,Male,low level
+20,Trainee,Below 1 year,no experience,Intermediate,35000,Male,low level
+26,Junior Engineer,1-2 years,no experience,Fluent,54000,Female,low-mid level
+35,Senior Engineer,5-10 years,1-2 years experience,Intermediate,138000,Male,mid-high level
+31,Software Engineer,5-10 years,2-5 years experience,Fluent,94000,Male,mid level
+18,Trainee,Below 1 year,no experience,Beginner,37000,Male,low level
+18,Junior Developer,1-2 years,1-2 years experience,Intermediate,72000,Female,low level
+24,Junior Engineer,1-2 years,no experience,Fluent,59000,Male,low-mid level
+47,Tech Lead,10+ years,5 years+ experience,Fluent,223000,Male,mid-high level
+35,Software Engineer,5-10 years,1-2 years experience,Fluent,89000,Male,mid level
+21,Intern,No experience,no experience,Beginner,44000,Male,low level
+21,Intern,Below 1 year,no experience,Beginner,43000,Female,low level
+23,Junior Developer,1-2 years,2-5 years experience,Fluent,64000,Female,low-mid level
+54,Tech Lead,5-10 years,5 years+ experience,Fluent,183000,Female,mid-high level
+28,Software Engineer,10+ years,no experience,Fluent,93000,Male,mid level
+18,Intern,No experience,no experience,Intermediate,30000,Female,low level
+23,Intern,Below 1 year,no experience,Beginner,44000,Male,low level
+23,Junior Developer,1-2 years,no experience,Fluent,71000,Female,low-mid level
+31,Tech Lead,5-10 years,5 years+ experience,Fluent,190000,Male,mid-high level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,73000,Male,mid level
+18,Intern,Below 1 year,no experience,Intermediate,31000,Male,low level
+22,Junior Developer,1-2 years,no experience,Fluent,80000,Female,low level
+24,Associate Engineer,2-5 years,2-5 years experience,Intermediate,92000,Female,low-mid level
+43,Senior Engineer,2-5 years,1-2 years experience,Intermediate,164000,Male,mid-high level
+29,Software Engineer,5-10 years,no experience,Fluent,105000,Male,mid level
+20,Intern,No experience,no experience,Beginner,34000,Male,low level
+21,Intern,Below 1 year,no experience,Beginner,42000,Male,low level
+22,Associate Engineer,2-5 years,2-5 years experience,Fluent,80000,Male,low-mid level
+55,Software Engineer,2-5 years,1-2 years experience,Intermediate,99000,Male,mid-high level
+29,Associate Engineer,1-2 years,2-5 years experience,Fluent,95000,Female,mid level
+22,Intern,No experience,no experience,Intermediate,35000,Male,low level
+20,Intern,Below 1 year,no experience,Intermediate,32000,Male,low level
+25,Junior Developer,1-2 years,1-2 years experience,Intermediate,74000,Female,low-mid level
+35,Tech Lead,5-10 years,5 years+ experience,Fluent,185000,Male,mid-high level
+28,Associate Engineer,1-2 years,no experience,Fluent,72000,Male,mid level
+20,Intern,Below 1 year,no experience,Intermediate,42000,Male,low level
+22,Trainee,Below 1 year,no experience,Beginner,44000,Female,low level
+25,Junior Developer,1-2 years,1-2 years experience,Intermediate,71000,Female,low-mid level
+33,Senior Engineer,2-5 years,2-5 years experience,Fluent,152000,Male,mid-high level
+31,Associate Engineer,1-2 years,2-5 years experience,Fluent,79000,Male,mid level
+21,Intern,No experience,no experience,Intermediate,31000,Male,low level
+23,Trainee,No experience,no experience,Intermediate,38000,Male,low level
+22,Junior Developer,1-2 years,1-2 years experience,Intermediate,66000,Male,low-mid level
+33,Tech Lead,5-10 years,5 years+ experience,Fluent,150000,Male,mid-high level
+32,Software Engineer,5-10 years,1-2 years experience,Fluent,118000,Male,mid level
+20,Junior Developer,1-2 years,2-5 years experience,Intermediate,77000,Female,low level
+22,Intern,No experience,no experience,Intermediate,41000,Male,low level
+23,Associate Engineer,1-2 years,no experience,Intermediate,76000,Male,low-mid level
+39,Software Engineer,10+ years,2-5 years experience,Fluent,94000,Male,mid-high level
+29,Associate Engineer,2-5 years,no experience,Fluent,91000,Male,mid level
+23,Trainee,Below 1 year,no experience,Intermediate,48000,Male,low level
+18,Intern,Below 1 year,no experience,Beginner,42000,Male,low level
+25,Associate Engineer,1-2 years,no experience,Fluent,99000,Male,low-mid level
+46,Software Engineer,2-5 years,no experience,Fluent,90000,Male,mid-high level
+32,Associate Engineer,1-2 years,2-5 years experience,Intermediate,98000,Female,mid level
+23,Intern,Below 1 year,no experience,Intermediate,41000,Male,low level
+18,Trainee,No experience,no experience,Beginner,33000,Female,low level
+25,Associate Engineer,1-2 years,2-5 years experience,Fluent,94000,Male,low-mid level
+28,Senior Engineer,5-10 years,no experience,Intermediate,175000,Male,mid-high level
+29,Associate Engineer,2-5 years,2-5 years experience,Fluent,84000,Female,mid level
+21,Intern,No experience,no experience,Beginner,45000,Female,low level
+18,Intern,Below 1 year,no experience,Intermediate,33000,Female,low level
+20,Junior Engineer,1-2 years,no experience,Intermediate,70000,Male,low-mid level
+30,Software Engineer,5-10 years,1-2 years experience,Fluent,91000,Male,mid-high level
+31,Associate Engineer,1-2 years,1-2 years experience,Fluent,97000,Male,mid level
+21,Intern,No experience,no experience,Intermediate,45000,Male,low level
+19,Intern,No experience,no experience,Beginner,42000,Male,low level
+25,Junior Developer,1-2 years,1-2 years experience,Intermediate,74000,Male,low-mid level
+31,Software Engineer,5-10 years,1-2 years experience,Fluent,82000,Male,mid-high level
+30,Software Engineer,10+ years,no experience,Fluent,91000,Male,mid level
+21,Trainee,No experience,no experience,Intermediate,41000,Male,low level
+23,Intern,Below 1 year,no experience,Intermediate,41000,Male,low level
+21,Junior Developer,1-2 years,1-2 years experience,Fluent,57000,Male,low-mid level
+52,Tech Lead,10+ years,5 years+ experience,Fluent,195000,Male,mid-high level
+32,Software Engineer,10+ years,1-2 years experience,Intermediate,93000,Female,mid level
+22,Trainee,No experience,no experience,Beginner,35000,Male,low level
+18,Trainee,No experience,no experience,Intermediate,33000,Male,low level
+22,Junior Developer,1-2 years,2-5 years experience,Fluent,50000,Female,low-mid level
+52,Senior Engineer,2-5 years,no experience,Intermediate,173000,Male,mid-high level
+28,Software Engineer,10+ years,1-2 years experience,Intermediate,120000,Male,mid level
+21,Trainee,No experience,no experience,Intermediate,48000,Female,low level
+20,Intern,No experience,no experience,Intermediate,47000,Male,low level
+24,Associate Engineer,2-5 years,no experience,Fluent,84000,Male,low-mid level
+30,Software Engineer,5-10 years,1-2 years experience,Intermediate,94000,Male,mid-high level
+30,Associate Engineer,1-2 years,no experience,Fluent,94000,Male,mid level
+20,Intern,No experience,no experience,Beginner,36000,Female,low level
+18,Trainee,Below 1 year,no experience,Beginner,39000,Male,low level
+25,Junior Engineer,2-5 years,no experience,Fluent,79000,Male,low-mid level
+35,Tech Lead,5-10 years,5 years+ experience,Fluent,210000,Male,mid-high level
+29,Software Engineer,10+ years,no experience,Fluent,95000,Male,mid level
+21,Intern,Below 1 year,no experience,Beginner,32000,Female,low level
+22,Trainee,Below 1 year,no experience,Beginner,45000,Female,low level
+23,Junior Developer,1-2 years,1-2 years experience,Intermediate,50000,Female,low-mid level
+35,Tech Lead,10+ years,5 years+ experience,Fluent,190000,Male,mid-high level
+34,Software Engineer,10+ years,2-5 years experience,Fluent,110000,Male,mid level
+21,Intern,No experience,no experience,Intermediate,32000,Male,low level
+19,Intern,Below 1 year,no experience,Intermediate,33000,Male,low level
+25,Junior Developer,1-2 years,1-2 years experience,Fluent,58000,Male,low-mid level
+46,Software Engineer,2-5 years,1-2 years experience,Fluent,95000,Male,mid-high level
+28,Associate Engineer,2-5 years,no experience,Fluent,92000,Female,mid level
+23,Junior Developer,1-2 years,2-5 years experience,Intermediate,51000,Male,low level
+22,Intern,Below 1 year,no experience,Beginner,44000,Female,low level
+20,Junior Developer,1-2 years,1-2 years experience,Fluent,63000,Male,low-mid level
+29,Tech Lead,10+ years,5 years+ experience,Fluent,236000,Male,mid-high level
+33,Software Engineer,10+ years,1-2 years experience,Intermediate,108000,Female,mid level
+21,Intern,No experience,no experience,Intermediate,44000,Male,low level
+18,Intern,Below 1 year,no experience,Beginner,45000,Male,low level
+22,Junior Engineer,2-5 years,no experience,Fluent,77000,Male,low-mid level
+48,Senior Engineer,5-10 years,1-2 years experience,Intermediate,168000,Male,mid-high level
+30,Software Engineer,10+ years,1-2 years experience,Intermediate,104000,Male,mid level
+20,Intern,Below 1 year,no experience,Intermediate,30000,Male,low level
+18,Intern,Below 1 year,no experience,Beginner,42000,Male,low level
+22,Junior Engineer,1-2 years,1-2 years experience,Intermediate,51000,Male,low-mid level
+38,Senior Engineer,5-10 years,no experience,Intermediate,121000,Male,mid-high level
+32,Software Engineer,5-10 years,1-2 years experience,Fluent,85000,Male,mid level
+20,Intern,Below 1 year,no experience,Intermediate,37000,Male,low level
+22,Intern,Below 1 year,no experience,Intermediate,50000,Male,low level
+20,Junior Engineer,1-2 years,1-2 years experience,Intermediate,76000,Male,low-mid level
+28,Senior Engineer,2-5 years,2-5 years experience,Intermediate,149000,Female,mid-high level
+32,Software Engineer,10+ years,1-2 years experience,Intermediate,96000,Female,mid level
+23,Intern,No experience,no experience,Beginner,30000,Male,low level
+19,Intern,Below 1 year,no experience,Beginner,48000,Female,low level
+21,Associate Engineer,1-2 years,2-5 years experience,Fluent,86000,Male,low-mid level
+43,Tech Lead,5-10 years,5 years+ experience,Fluent,207000,Male,mid-high level
+31,Associate Engineer,1-2 years,1-2 years experience,Fluent,79000,Male,mid level
+18,Intern,Below 1 year,no experience,Beginner,50000,Male,low level
+18,Intern,No experience,no experience,Beginner,43000,Male,low level
+21,Junior Developer,1-2 years,no experience,Fluent,62000,Male,low-mid level
+30,Senior Engineer,10+ years,2-5 years experience,Fluent,137000,Male,mid-high level
+35,Software Engineer,10+ years,2-5 years experience,Fluent,86000,Male,mid level
+18,Junior Developer,1-2 years,2-5 years experience,Intermediate,63000,Female,low level
+21,Intern,No experience,no experience,Beginner,41000,Female,low level
+22,Junior Developer,1-2 years,2-5 years experience,Intermediate,72000,Female,low-mid level
+50,Senior Engineer,10+ years,1-2 years experience,Intermediate,159000,Male,mid-high level
+30,Software Engineer,10+ years,1-2 years experience,Intermediate,119000,Female,mid level
+18,Trainee,No experience,no experience,Beginner,43000,Female,low level
+21,Intern,No experience,no experience,Intermediate,40000,Male,low level
+27,Associate Engineer,2-5 years,no experience,Fluent,81000,Male,low-mid level
+32,Software Engineer,10+ years,no experience,Fluent,88000,Male,mid-high level
+29,Software Engineer,10+ years,no experience,Fluent,117000,Male,mid level
+23,Intern,No experience,no experience,Intermediate,34000,Female,low level
+22,Intern,No experience,no experience,Beginner,44000,Male,low level
+27,Associate Engineer,2-5 years,no experience,Fluent,85000,Male,low-mid level
+29,Senior Engineer,5-10 years,1-2 years experience,Intermediate,125000,Male,mid-high level
+29,Associate Engineer,2-5 years,2-5 years experience,Fluent,78000,Male,mid level
+53,Architect,5-10 years,5 years+ experience,Fluent,351000,Male,high level
+22,Intern,No experience,no experience,Beginner,38000,Male,low level
+23,Junior Engineer,1-2 years,1-2 years experience,Fluent,55000,Male,low-mid level
+51,Senior Engineer,10+ years,2-5 years experience,Fluent,127000,Male,mid-high level
+31,Associate Engineer,2-5 years,2-5 years experience,Intermediate,76000,Male,mid level
+31,Architect,10+ years,5 years+ experience,Fluent,357000,Male,high level
+18,Trainee,No experience,no experience,Intermediate,46000,Male,low level
+20,Associate Engineer,2-5 years,2-5 years experience,Fluent,100000,Male,low-mid level
+37,Software Engineer,5-10 years,1-2 years experience,Intermediate,85000,Female,mid-high level
+30,Software Engineer,5-10 years,2-5 years experience,Fluent,98000,Male,mid level
+40,Senior Engineer,2-5 years,1-2 years experience,Intermediate,132000,Male,high level
+21,Intern,Below 1 year,no experience,Beginner,42000,Male,low level
+24,Junior Developer,1-2 years,2-5 years experience,Fluent,76000,Male,low-mid level
+37,Senior Engineer,10+ years,no experience,Fluent,173000,Male,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Intermediate,91000,Female,mid level
+44,Principal Engineer,10+ years,5 years+ experience,Fluent,286000,Male,high level
+20,Trainee,No experience,no experience,Beginner,39000,Male,low level
+21,Junior Engineer,1-2 years,2-5 years experience,Fluent,75000,Male,low-mid level
+48,Senior Engineer,10+ years,1-2 years experience,Fluent,164000,Male,mid-high level
+32,Software Engineer,10+ years,2-5 years experience,Fluent,99000,Male,mid level
+32,Tech Lead,10+ years,5 years+ experience,Fluent,195000,Male,high level
+21,Intern,Below 1 year,no experience,Beginner,46000,Female,low level
+20,Junior Engineer,1-2 years,2-5 years experience,Intermediate,80000,Male,low-mid level
+41,Senior Engineer,10+ years,2-5 years experience,Intermediate,147000,Male,mid-high level
+34,Associate Engineer,2-5 years,2-5 years experience,Intermediate,99000,Female,mid level
+54,Senior Engineer,10+ years,2-5 years experience,Intermediate,128000,Male,high level
+23,Intern,Below 1 year,no experience,Beginner,35000,Male,low level
+25,Junior Developer,1-2 years,1-2 years experience,Fluent,58000,Male,low-mid level
+29,Software Engineer,2-5 years,no experience,Intermediate,81000,Male,mid-high level
+30,Software Engineer,2-5 years,1-2 years experience,Fluent,103000,Male,mid level
+40,Senior Engineer,2-5 years,2-5 years experience,Fluent,141000,Male,high level
+22,Intern,Below 1 year,no experience,Beginner,35000,Male,low level
+26,Junior Engineer,1-2 years,2-5 years experience,Fluent,79000,Male,low-mid level
+39,Tech Lead,5-10 years,5 years+ experience,Fluent,199000,Male,mid-high level
+35,Software Engineer,5-10 years,1-2 years experience,Fluent,91000,Male,mid level
+34,Architect,10+ years,5 years+ experience,Fluent,266000,Male,high level
+22,Intern,Below 1 year,no experience,Beginner,41000,Male,low level
+22,Junior Engineer,1-2 years,2-5 years experience,Intermediate,76000,Male,low-mid level
+36,Senior Engineer,5-10 years,2-5 years experience,Fluent,164000,Male,mid-high level
+32,Software Engineer,2-5 years,no experience,Fluent,103000,Male,mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,245000,Male,high level
+23,Trainee,Below 1 year,no experience,Intermediate,47000,Male,low level
+20,Junior Engineer,2-5 years,2-5 years experience,Fluent,58000,Male,low-mid level
+30,Senior Engineer,10+ years,1-2 years experience,Fluent,178000,Male,mid-high level
+28,Software Engineer,5-10 years,1-2 years experience,Intermediate,116000,Male,mid level
+34,Senior Engineer,5-10 years,1-2 years experience,Fluent,136000,Male,high level
+18,Intern,Below 1 year,no experience,Intermediate,30000,Male,low level
+23,Junior Developer,1-2 years,no experience,Intermediate,78000,Male,low-mid level
+36,Software Engineer,10+ years,1-2 years experience,Fluent,118000,Female,mid-high level
+33,Software Engineer,2-5 years,2-5 years experience,Intermediate,111000,Female,mid level
+35,Principal Engineer,5-10 years,5 years+ experience,Fluent,206000,Male,high level
+22,Intern,Below 1 year,no experience,Beginner,50000,Male,low level
+22,Junior Developer,1-2 years,1-2 years experience,Fluent,52000,Male,low-mid level
+37,Tech Lead,5-10 years,5 years+ experience,Fluent,221000,Male,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Fluent,97000,Male,mid level
+48,Principal Engineer,10+ years,5 years+ experience,Fluent,230000,Male,high level
+22,Intern,No experience,no experience,Intermediate,48000,Male,low level
+23,Associate Engineer,1-2 years,2-5 years experience,Intermediate,83000,Male,low-mid level
+30,Software Engineer,5-10 years,1-2 years experience,Intermediate,99000,Male,mid-high level
+31,Software Engineer,2-5 years,no experience,Fluent,110000,Female,mid level
+40,Architect,10+ years,5 years+ experience,Fluent,312000,Male,high level
+21,Intern,Below 1 year,no experience,Beginner,48000,Male,low level
+20,Junior Developer,1-2 years,2-5 years experience,Fluent,73000,Male,low-mid level
+43,Software Engineer,2-5 years,2-5 years experience,Fluent,103000,Male,mid-high level
+28,Associate Engineer,1-2 years,2-5 years experience,Intermediate,79000,Female,mid level
+46,Senior Engineer,5-10 years,no experience,Intermediate,172000,Male,high level
+18,Trainee,Below 1 year,no experience,Intermediate,38000,Male,low level
+20,Junior Developer,1-2 years,2-5 years experience,Fluent,52000,Male,low-mid level
+28,Software Engineer,5-10 years,2-5 years experience,Fluent,84000,Male,mid-high level
+32,Associate Engineer,1-2 years,no experience,Fluent,94000,Male,mid level
+38,Architect,10+ years,5 years+ experience,Fluent,361000,Male,high level
+22,Intern,Below 1 year,no experience,Intermediate,33000,Male,low level
+20,Junior Developer,1-2 years,1-2 years experience,Intermediate,76000,Male,low-mid level
+40,Software Engineer,10+ years,2-5 years experience,Fluent,92000,Male,mid-high level
+30,Software Engineer,2-5 years,no experience,Fluent,117000,Female,mid level
+40,Tech Lead,5-10 years,5 years+ experience,Fluent,171000,Male,high level
+18,Intern,No experience,no experience,Intermediate,32000,Female,low level
+24,Junior Developer,1-2 years,2-5 years experience,Fluent,53000,Male,low-mid level
+34,Software Engineer,5-10 years,2-5 years experience,Fluent,111000,Male,mid-high level
+28,Associate Engineer,2-5 years,no experience,Fluent,75000,Female,mid level
+40,Senior Engineer,10+ years,1-2 years experience,Intermediate,143000,Male,high level
+20,Trainee,No experience,no experience,Beginner,35000,Female,low level
+27,Junior Engineer,2-5 years,2-5 years experience,Intermediate,77000,Male,low-mid level
+35,Software Engineer,5-10 years,no experience,Fluent,118000,Male,mid-high level
+28,Software Engineer,10+ years,2-5 years experience,Fluent,109000,Male,mid level
+55,Tech Lead,10+ years,5 years+ experience,Fluent,182000,Female,high level
+23,Intern,No experience,no experience,Beginner,34000,Male,low level
+25,Junior Developer,1-2 years,no experience,Intermediate,54000,Male,low-mid level
+32,Senior Engineer,5-10 years,2-5 years experience,Fluent,169000,Female,mid-high level
+34,Software Engineer,2-5 years,no experience,Fluent,97000,Male,mid level
+31,Tech Lead,5-10 years,5 years+ experience,Fluent,174000,Male,high level
+19,Intern,No experience,no experience,Beginner,36000,Male,low level
+26,Junior Engineer,2-5 years,1-2 years experience,Intermediate,75000,Male,low-mid level
+40,Software Engineer,5-10 years,1-2 years experience,Intermediate,107000,Male,mid-high level
+32,Software Engineer,5-10 years,1-2 years experience,Fluent,92000,Male,mid level
+50,Senior Engineer,2-5 years,no experience,Intermediate,130000,Male,high level
+21,Intern,Below 1 year,no experience,Intermediate,41000,Male,low level
+22,Junior Developer,1-2 years,2-5 years experience,Intermediate,52000,Male,low-mid level
+31,Tech Lead,10+ years,5 years+ experience,Fluent,153000,Male,mid-high level
+29,Software Engineer,10+ years,1-2 years experience,Fluent,98000,Female,mid level
+40,Principal Engineer,10+ years,5 years+ experience,Fluent,290000,Female,high level
+23,Trainee,Below 1 year,no experience,Beginner,32000,Female,low level
+25,Junior Developer,1-2 years,2-5 years experience,Fluent,62000,Female,low-mid level
+30,Software Engineer,5-10 years,1-2 years experience,Intermediate,87000,Male,mid-high level
+30,Associate Engineer,1-2 years,no experience,Fluent,71000,Male,mid level
+39,Senior Engineer,2-5 years,no experience,Fluent,149000,Male,high level
+20,Trainee,No experience,no experience,Intermediate,37000,Female,low level
+21,Junior Engineer,2-5 years,no experience,Fluent,58000,Male,low-mid level
+54,Senior Engineer,10+ years,no experience,Fluent,162000,Female,mid-high level
+31,Software Engineer,10+ years,2-5 years experience,Fluent,86000,Male,mid level
+44,Senior Engineer,2-5 years,2-5 years experience,Fluent,143000,Male,high level
+18,Intern,No experience,no experience,Beginner,47000,Male,low level
+26,Associate Engineer,2-5 years,2-5 years experience,Fluent,77000,Male,low-mid level
+53,Tech Lead,10+ years,5 years+ experience,Fluent,177000,Male,mid-high level
+28,Software Engineer,10+ years,1-2 years experience,Intermediate,99000,Female,mid level
+30,Senior Engineer,5-10 years,1-2 years experience,Intermediate,128000,Male,high level
+18,Intern,Below 1 year,no experience,Beginner,50000,Female,low level
+27,Junior Engineer,2-5 years,1-2 years experience,Intermediate,71000,Male,low-mid level
+30,Tech Lead,5-10 years,5 years+ experience,Fluent,203000,Male,mid-high level
+32,Software Engineer,5-10 years,no experience,Fluent,90000,Male,mid level
+30,Tech Lead,5-10 years,5 years+ experience,Fluent,178000,Male,high level
+19,Intern,Below 1 year,no experience,Intermediate,38000,Male,low level
+21,Associate Engineer,2-5 years,2-5 years experience,Fluent,89000,Female,low-mid level
+42,Tech Lead,10+ years,5 years+ experience,Fluent,188000,Female,mid-high level
+28,Associate Engineer,2-5 years,1-2 years experience,Intermediate,88000,Male,mid level
+53,Senior Engineer,2-5 years,2-5 years experience,Fluent,143000,Male,high level
+19,Intern,No experience,no experience,Intermediate,35000,Male,low level
+23,Associate Engineer,1-2 years,2-5 years experience,Intermediate,95000,Male,low-mid level
+36,Tech Lead,5-10 years,5 years+ experience,Fluent,177000,Male,mid-high level
+28,Associate Engineer,2-5 years,no experience,Fluent,76000,Male,mid level
+51,Senior Engineer,5-10 years,2-5 years experience,Intermediate,150000,Male,high level
+21,Junior Developer,1-2 years,1-2 years experience,Fluent,73000,Male,low level
+23,Associate Engineer,1-2 years,no experience,Intermediate,87000,Male,low-mid level
+43,Senior Engineer,5-10 years,1-2 years experience,Fluent,150000,Male,mid-high level
+33,Software Engineer,2-5 years,no experience,Fluent,116000,Female,mid level
+33,Tech Lead,5-10 years,5 years+ experience,Fluent,208000,Male,high level
+18,Trainee,Below 1 year,no experience,Beginner,40000,Male,low level
+25,Junior Engineer,1-2 years,1-2 years experience,Fluent,76000,Female,low-mid level
+30,Software Engineer,10+ years,1-2 years experience,Intermediate,85000,Male,mid-high level
+29,Software Engineer,2-5 years,no experience,Intermediate,105000,Male,mid level
+43,Tech Lead,10+ years,5 years+ experience,Fluent,220000,Male,high level
+23,Intern,Below 1 year,no experience,Intermediate,33000,Male,low level
+24,Associate Engineer,2-5 years,2-5 years experience,Intermediate,96000,Male,low-mid level
+28,Tech Lead,5-10 years,5 years+ experience,Fluent,215000,Male,mid-high level
+32,Software Engineer,5-10 years,2-5 years experience,Intermediate,107000,Female,mid level
+44,Tech Lead,10+ years,5 years+ experience,Fluent,166000,Male,high level
+20,Intern,No experience,no experience,Intermediate,37000,Male,low level
+27,Junior Engineer,1-2 years,no experience,Fluent,76000,Female,low-mid level
+28,Senior Engineer,5-10 years,1-2 years experience,Fluent,143000,Male,mid-high level
+28,Software Engineer,5-10 years,no experience,Fluent,96000,Male,mid level
+36,Tech Lead,5-10 years,5 years+ experience,Fluent,223000,Male,high level
+20,Intern,No experience,no experience,Beginner,48000,Male,low level
+23,Junior Developer,1-2 years,2-5 years experience,Fluent,75000,Male,low-mid level
+48,Tech Lead,5-10 years,5 years+ experience,Fluent,192000,Male,mid-high level
+30,Associate Engineer,2-5 years,1-2 years experience,Fluent,77000,Female,mid level
+45,Senior Engineer,10+ years,2-5 years experience,Intermediate,132000,Male,high level
+21,Intern,No experience,no experience,Intermediate,43000,Male,low level
+26,Junior Engineer,1-2 years,1-2 years experience,Fluent,58000,Male,low-mid level
+44,Software Engineer,2-5 years,no experience,Intermediate,92000,Male,mid-high level
+29,Software Engineer,5-10 years,no experience,Intermediate,95000,Female,mid level
+38,Senior Engineer,10+ years,1-2 years experience,Fluent,129000,Male,high level
+19,Intern,Below 1 year,no experience,Intermediate,30000,Male,low level
+24,Junior Engineer,1-2 years,2-5 years experience,Intermediate,68000,Female,low-mid level
+55,Tech Lead,5-10 years,5 years+ experience,Fluent,213000,Male,mid-high level
+32,Associate Engineer,1-2 years,1-2 years experience,Intermediate,85000,Male,mid level
+37,Senior Engineer,2-5 years,no experience,Intermediate,156000,Male,high level
+22,Intern,No experience,no experience,Intermediate,33000,Male,low level
+20,Junior Developer,1-2 years,1-2 years experience,Intermediate,75000,Female,low-mid level
+55,Tech Lead,5-10 years,5 years+ experience,Fluent,196000,Male,mid-high level
+30,Software Engineer,2-5 years,2-5 years experience,Fluent,108000,Male,mid level
+33,Architect,10+ years,5 years+ experience,Fluent,383000,Male,high level
+22,Trainee,Below 1 year,no experience,Intermediate,32000,Male,low level
+24,Junior Engineer,1-2 years,1-2 years experience,Fluent,50000,Male,low-mid level
+37,Tech Lead,5-10 years,5 years+ experience,Fluent,214000,Male,mid-high level
+30,Software Engineer,2-5 years,2-5 years experience,Fluent,112000,Male,mid level
+46,Senior Engineer,10+ years,1-2 years experience,Intermediate,155000,Male,high level
+21,Trainee,No experience,no experience,Beginner,39000,Female,low level
+25,Junior Developer,1-2 years,2-5 years experience,Intermediate,70000,Male,low-mid level
+31,Senior Engineer,10+ years,1-2 years experience,Fluent,127000,Male,mid-high level
+31,Software Engineer,10+ years,2-5 years experience,Fluent,89000,Male,mid level
+32,Senior Engineer,2-5 years,no experience,Fluent,120000,Male,high level
+19,Intern,No experience,no experience,Intermediate,44000,Male,low level
+24,Junior Engineer,2-5 years,no experience,Intermediate,55000,Female,low-mid level
+38,Senior Engineer,5-10 years,no experience,Fluent,151000,Male,mid-high level
+30,Software Engineer,2-5 years,no experience,Fluent,95000,Male,mid level
+39,Tech Lead,10+ years,5 years+ experience,Fluent,212000,Male,high level
+21,Trainee,No experience,no experience,Intermediate,34000,Female,low level
+28,Junior Developer,1-2 years,2-5 years experience,Fluent,65000,Male,low-mid level
+30,Software Engineer,5-10 years,1-2 years experience,Fluent,105000,Male,mid-high level
+30,Associate Engineer,1-2 years,2-5 years experience,Intermediate,87000,Male,mid level
+51,Tech Lead,10+ years,5 years+ experience,Fluent,210000,Male,high level
+22,Intern,No experience,no experience,Beginner,44000,Male,low level
+26,Associate Engineer,1-2 years,1-2 years experience,Fluent,70000,Male,low-mid level
+34,Senior Engineer,5-10 years,1-2 years experience,Fluent,172000,Male,mid-high level
+31,Software Engineer,10+ years,no experience,Fluent,103000,Male,mid level
+31,Architect,5-10 years,5 years+ experience,Fluent,392000,Male,high level
+20,Intern,Below 1 year,no experience,Intermediate,43000,Male,low level
+23,Junior Engineer,1-2 years,2-5 years experience,Fluent,50000,Female,low-mid level
+45,Senior Engineer,5-10 years,no experience,Fluent,169000,Male,mid-high level
+31,Associate Engineer,2-5 years,2-5 years experience,Intermediate,74000,Male,mid level
+41,Senior Engineer,10+ years,1-2 years experience,Fluent,164000,Male,high level
+18,Trainee,No experience,no experience,Beginner,39000,Male,low level
+24,Associate Engineer,2-5 years,1-2 years experience,Intermediate,81000,Male,low-mid level
+42,Senior Engineer,10+ years,1-2 years experience,Intermediate,124000,Male,mid-high level
+30,Associate Engineer,2-5 years,1-2 years experience,Intermediate,85000,Female,mid level
+43,Senior Engineer,10+ years,2-5 years experience,Intermediate,158000,Male,high level
+20,Intern,No experience,no experience,Beginner,41000,Male,low level
+23,Junior Developer,1-2 years,1-2 years experience,Intermediate,64000,Male,low-mid level
+42,Senior Engineer,2-5 years,1-2 years experience,Fluent,140000,Male,mid-high level
+31,Associate Engineer,2-5 years,2-5 years experience,Intermediate,89000,Male,mid level
+37,Senior Engineer,2-5 years,2-5 years experience,Intermediate,159000,Male,high level
+19,Intern,No experience,no experience,Beginner,33000,Male,low level
+25,Junior Developer,1-2 years,2-5 years experience,Fluent,54000,Male,low-mid level
+39,Software Engineer,2-5 years,1-2 years experience,Fluent,81000,Male,mid-high level
+35,Software Engineer,2-5 years,no experience,Intermediate,95000,Male,mid level
+48,Architect,10+ years,5 years+ experience,Fluent,359000,Female,high level
+21,Intern,Below 1 year,no experience,Beginner,47000,Male,low level
+25,Junior Engineer,1-2 years,1-2 years experience,Intermediate,55000,Male,low-mid level
+39,Senior Engineer,2-5 years,2-5 years experience,Intermediate,151000,Male,mid-high level
+30,Associate Engineer,2-5 years,2-5 years experience,Fluent,89000,Male,mid level
+40,Senior Engineer,5-10 years,1-2 years experience,Intermediate,145000,Male,high level
+19,Intern,Below 1 year,no experience,Intermediate,47000,Male,low level
+24,Junior Developer,1-2 years,2-5 years experience,Fluent,62000,Female,low-mid level
+32,Senior Engineer,2-5 years,1-2 years experience,Intermediate,174000,Male,mid-high level
+32,Software Engineer,5-10 years,1-2 years experience,Fluent,113000,Male,mid level
+50,Architect,5-10 years,5 years+ experience,Fluent,355000,Male,high level
+20,Intern,Below 1 year,no experience,Beginner,31000,Male,low level
+25,Junior Developer,1-2 years,no experience,Fluent,56000,Female,low-mid level
+37,Software Engineer,2-5 years,1-2 years experience,Fluent,104000,Male,mid-high level
+32,Associate Engineer,1-2 years,2-5 years experience,Fluent,99000,Male,mid level
+41,Architect,5-10 years,5 years+ experience,Fluent,350000,Male,high level
+20,Trainee,No experience,no experience,Beginner,30000,Male,low level
+22,Junior Engineer,2-5 years,2-5 years experience,Fluent,59000,Male,low-mid level
+38,Tech Lead,10+ years,5 years+ experience,Fluent,229000,Female,mid-high level
+28,Software Engineer,2-5 years,2-5 years experience,Intermediate,118000,Female,mid level
+32,Architect,10+ years,5 years+ experience,Fluent,390000,Female,high level
+20,Junior Developer,1-2 years,2-5 years experience,Fluent,62000,Male,low level
+24,Associate Engineer,2-5 years,no experience,Intermediate,88000,Female,low-mid level
+32,Senior Engineer,5-10 years,no experience,Fluent,153000,Male,mid-high level
+32,Associate Engineer,1-2 years,no experience,Intermediate,93000,Male,mid level
+43,Principal Engineer,10+ years,5 years+ experience,Fluent,221000,Male,high level
+23,Intern,Below 1 year,no experience,Beginner,43000,Female,low level
+21,Junior Developer,1-2 years,no experience,Intermediate,65000,Male,low-mid level
+55,Tech Lead,5-10 years,5 years+ experience,Fluent,166000,Female,mid-high level
+30,Software Engineer,10+ years,1-2 years experience,Fluent,104000,Male,mid level
+44,Tech Lead,5-10 years,5 years+ experience,Fluent,197000,Male,high level
+20,Intern,No experience,no experience,Beginner,30000,Male,low level
+24,Junior Developer,1-2 years,1-2 years experience,Fluent,68000,Male,low-mid level
+28,Tech Lead,10+ years,5 years+ experience,Fluent,169000,Male,mid-high level
+30,Software Engineer,2-5 years,2-5 years experience,Fluent,103000,Male,mid level
+30,Tech Lead,5-10 years,5 years+ experience,Fluent,209000,Male,high level
+20,Intern,Below 1 year,no experience,Intermediate,45000,Male,low level
+26,Junior Developer,1-2 years,2-5 years experience,Intermediate,75000,Female,low-mid level
+46,Senior Engineer,10+ years,2-5 years experience,Fluent,162000,Male,mid-high level
+32,Software Engineer,10+ years,no experience,Intermediate,111000,Male,mid level
+47,Senior Engineer,10+ years,no experience,Intermediate,124000,Male,high level
+20,Trainee,Below 1 year,no experience,Beginner,46000,Male,low level
+20,Junior Developer,1-2 years,no experience,Intermediate,61000,Female,low-mid level
+28,Tech Lead,10+ years,5 years+ experience,Fluent,204000,Male,mid-high level
+34,Software Engineer,2-5 years,2-5 years experience,Fluent,91000,Male,mid level
+51,Tech Lead,5-10 years,5 years+ experience,Fluent,227000,Male,high level
+23,Junior Developer,1-2 years,no experience,Fluent,63000,Male,low level
+21,Junior Engineer,2-5 years,1-2 years experience,Intermediate,52000,Male,low-mid level
+50,Tech Lead,5-10 years,5 years+ experience,Fluent,185000,Male,mid-high level
+32,Associate Engineer,2-5 years,no experience,Intermediate,83000,Male,mid level
+47,Senior Engineer,2-5 years,no experience,Intermediate,168000,Male,high level
+20,Intern,No experience,no experience,Beginner,36000,Male,low level
+22,Junior Developer,1-2 years,1-2 years experience,Intermediate,56000,Male,low-mid level
+31,Senior Engineer,2-5 years,1-2 years experience,Fluent,155000,Female,mid-high level
+28,Software Engineer,10+ years,no experience,Fluent,109000,Male,mid level
+36,Architect,5-10 years,5 years+ experience,Fluent,346000,Male,high level
+19,Intern,Below 1 year,no experience,Beginner,49000,Male,low level
+22,Junior Engineer,1-2 years,no experience,Fluent,73000,Male,low-mid level
+35,Senior Engineer,5-10 years,1-2 years experience,Fluent,125000,Male,mid-high level
+35,Software Engineer,10+ years,no experience,Intermediate,105000,Female,mid level
+46,Senior Engineer,2-5 years,no experience,Intermediate,129000,Male,high level
+20,Trainee,No experience,no experience,Intermediate,38000,Male,low level
+23,Junior Engineer,2-5 years,no experience,Intermediate,76000,Male,low-mid level
+35,Software Engineer,5-10 years,no experience,Fluent,98000,Male,mid-high level
+29,Associate Engineer,2-5 years,1-2 years experience,Fluent,90000,Male,mid level
+31,Architect,10+ years,5 years+ experience,Fluent,358000,Female,high level
+19,Junior Developer,1-2 years,no experience,Intermediate,54000,Male,low level
+20,Junior Developer,1-2 years,2-5 years experience,Fluent,52000,Male,low-mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,165000,Male,mid-high level
+31,Software Engineer,10+ years,no experience,Intermediate,91000,Male,mid level
+39,Tech Lead,5-10 years,5 years+ experience,Fluent,173000,Male,high level
+19,Intern,Below 1 year,no experience,Beginner,33000,Male,low level
+25,Junior Developer,1-2 years,no experience,Intermediate,56000,Male,low-mid level
+46,Tech Lead,5-10 years,5 years+ experience,Fluent,222000,Male,mid-high level
+32,Associate Engineer,2-5 years,no experience,Fluent,82000,Female,mid level
+34,Architect,10+ years,5 years+ experience,Fluent,398000,Female,high level
+22,Trainee,No experience,no experience,Beginner,31000,Male,low level
+22,Junior Developer,1-2 years,2-5 years experience,Fluent,78000,Male,low-mid level
+45,Tech Lead,5-10 years,5 years+ experience,Fluent,188000,Male,mid-high level
+31,Associate Engineer,1-2 years,1-2 years experience,Fluent,91000,Male,mid level
+30,Architect,5-10 years,5 years+ experience,Fluent,285000,Male,high level
+22,Trainee,No experience,no experience,Beginner,49000,Male,low level
+24,Junior Developer,1-2 years,2-5 years experience,Intermediate,66000,Male,low-mid level
+39,Senior Engineer,5-10 years,1-2 years experience,Fluent,163000,Male,mid-high level
+30,Software Engineer,5-10 years,no experience,Intermediate,116000,Female,mid level
+46,Architect,5-10 years,5 years+ experience,Fluent,350000,Male,high level
+20,Junior Developer,1-2 years,2-5 years experience,Fluent,78000,Male,low level
+27,Junior Engineer,1-2 years,no experience,Intermediate,60000,Male,low-mid level
+37,Senior Engineer,5-10 years,2-5 years experience,Fluent,160000,Male,mid-high level
+32,Associate Engineer,2-5 years,1-2 years experience,Fluent,97000,Male,mid level
+55,Tech Lead,5-10 years,5 years+ experience,Fluent,238000,Male,high level
+22,Intern,Below 1 year,no experience,Intermediate,32000,Male,low level
+21,Junior Engineer,2-5 years,2-5 years experience,Intermediate,65000,Male,low-mid level
+35,Senior Engineer,5-10 years,1-2 years experience,Fluent,163000,Female,mid-high level
+31,Software Engineer,5-10 years,1-2 years experience,Intermediate,84000,Male,mid level
+36,Senior Engineer,10+ years,1-2 years experience,Intermediate,161000,Male,high level
+18,Intern,No experience,no experience,Beginner,42000,Male,low level
+25,Junior Engineer,2-5 years,1-2 years experience,Intermediate,76000,Female,low-mid level
+48,Senior Engineer,10+ years,1-2 years experience,Fluent,130000,Male,mid-high level
+29,Software Engineer,5-10 years,2-5 years experience,Intermediate,117000,Female,mid level
+39,Senior Engineer,2-5 years,no experience,Intermediate,145000,Male,high level
+18,Intern,Below 1 year,no experience,Beginner,38000,Male,low level
+26,Junior Developer,1-2 years,1-2 years experience,Fluent,53000,Male,low-mid level
+30,Software Engineer,5-10 years,2-5 years experience,Fluent,94000,Male,mid-high level
+28,Software Engineer,5-10 years,1-2 years experience,Intermediate,81000,Male,mid level
+40,Senior Engineer,2-5 years,2-5 years experience,Intermediate,137000,Male,high level
+23,Intern,No experience,no experience,Beginner,32000,Male,low level
+25,Junior Engineer,2-5 years,1-2 years experience,Fluent,68000,Male,low-mid level
+45,Senior Engineer,5-10 years,1-2 years experience,Intermediate,154000,Male,mid-high level
+32,Software Engineer,10+ years,1-2 years experience,Fluent,99000,Male,mid level
+55,Tech Lead,10+ years,5 years+ experience,Fluent,159000,Male,high level
+20,Intern,Below 1 year,no experience,Beginner,31000,Male,low level
+25,Junior Developer,1-2 years,no experience,Fluent,50000,Male,low-mid level
+45,Software Engineer,5-10 years,1-2 years experience,Fluent,100000,Male,mid-high level
+33,Software Engineer,10+ years,1-2 years experience,Intermediate,83000,Male,mid level
+40,Tech Lead,5-10 years,5 years+ experience,Fluent,227000,Female,high level
+20,Intern,No experience,no experience,Intermediate,31000,Male,low level
+21,Junior Developer,1-2 years,no experience,Intermediate,76000,Male,low-mid level
+31,Tech Lead,5-10 years,5 years+ experience,Fluent,233000,Male,mid-high level
+28,Associate Engineer,1-2 years,2-5 years experience,Fluent,79000,Male,mid level
+32,Principal Engineer,5-10 years,5 years+ experience,Fluent,253000,Male,high level
+19,Trainee,Below 1 year,no experience,Intermediate,48000,Male,low level
+21,Junior Engineer,2-5 years,no experience,Intermediate,71000,Male,low-mid level
+42,Tech Lead,10+ years,5 years+ experience,Fluent,197000,Male,mid-high level
+32,Software Engineer,5-10 years,no experience,Fluent,93000,Male,mid level
+44,Principal Engineer,5-10 years,5 years+ experience,Fluent,264000,Male,high level
+19,Intern,Below 1 year,no experience,Intermediate,50000,Male,low level
+22,Junior Developer,1-2 years,no experience,Fluent,60000,Male,low-mid level
+42,Senior Engineer,10+ years,1-2 years experience,Fluent,157000,Male,mid-high level
+29,Software Engineer,5-10 years,no experience,Intermediate,87000,Female,mid level
+54,Principal Engineer,5-10 years,5 years+ experience,Fluent,236000,Male,high level
