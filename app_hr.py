@@ -12,6 +12,7 @@ warnings.filterwarnings("ignore")
 
 
 app = Flask(__name__)
+# Enabling CORS
 CORS(app)
 
 try:
